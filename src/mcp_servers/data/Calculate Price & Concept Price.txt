@@ -1,0 +1,23 @@
+Calculate Price 
+1. Ala Carte menu
+     ** PIZZA : Size_Price + Crust_Price
+     ** Pasta / Appetizer / Salad / Wings : Size_Price
+2. Promotion / Combo 
+     ** PIZZA : Promo_price + Size_Price + Crust_Price
+     ** Pasta / Appetizer / Salad / Wings : Promo_price + Size_Price
+-------------------------------------------------------------------------------
+price_concept : ความแตกต่างระหว่าง BEF, BXF คือ
+BEF จะคิดราคา pizza+Extra Topping ทั้ง 2 ถาด (ถ้ามี) 
+BXF จะคิดราคา pizza+Extra Topping ในถาดที่แพงที่สุด 
+ตามตัวอย่างด้านล่าง :
+** BEF : ถาดแรก 299+ topping 50 = 349 
+         ถาดสอง 299+topping 50 = 349 
+        *** ราคาจะเป็น 299+50+50 = 399  
+BXF : ถาดแรก 299+ topping 50 = 349 
+         ถาดสอง 399+topping 50 = 449 
+         *** ราคาจะเป็น คิดที่ราคาแพงที่สุดคือ 449
+---------------------------------------------------------------------------------
+ตัวเลขหลัง F หมายถึง Item Free ที่จะไม่คิดเงินมีจำนวนเท่าไหร่ เช่น
+BEF1 : ถ้ามีให้เลือก Item 2 Item ต้องคิดราคาที่ 1 Item (แพงสุด) และ Free 1 Item
+BEF3 : ถ้ามีให้เลือก Item 5 Item คิดราคาที่ 2 Item (แพงสุด) และ Free 3 Item
+test4

@@ -1,0 +1,146 @@
+{
+    "sellingTimes": [
+        {
+            "id": "away_time",
+            "name": "Away Time",
+            "startTime": "2026-01-01 00:00:00",
+            "endTime": "2029-12-31 23:00:00",
+            "serviceHours": {
+                "mon": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "tue": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "wed": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "thu": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "fri": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "sat": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "sun": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "weekdays",
+            "name": "Weekdays",
+            "startTime": "2026-01-01 00:00:00",
+            "endTime": "2029-12-31 23:00:00",
+            "serviceHours": {
+                "mon": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "tue": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "wed": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "thu": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "fri": {
+                    "status": "OPEN",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "23:59"
+                        }
+                    ]
+                },
+                "sat": {
+                    "status": "CLOSE",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "00:01"
+                        }
+                    ]
+                },
+                "sun": {
+                    "status": "CLOSE",
+                    "periods": [
+                        {
+                            "startTime": "00:00",
+                            "endTime": "00:01"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

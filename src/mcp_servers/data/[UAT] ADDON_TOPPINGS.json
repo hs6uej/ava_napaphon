@@ -1,0 +1,932 @@
+{
+    "AddonToppingsList": [
+        {
+            "PIZZA": {
+                "L": {
+                    "TOPPING": [
+                        {
+                            "ingr_id": "10",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CSA",
+                            "ingr_name": "CHICKEN SAUSAGE",
+                            "ingr_name_en": "CHICKEN SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกไก่",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "102",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "JAPO",
+                            "ingr_name": "JALAPENO",
+                            "ingr_name_en": "JALAPENO",
+                            "ingr_name_th": "พริกจาลาปิโน",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "11",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "HAM",
+                            "ingr_name": "HAM",
+                            "ingr_name_en": "HAM",
+                            "ingr_name_th": "แฮม",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "12",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "NOC",
+                            "ingr_name": "NEW ORLEAN CHICKEN",
+                            "ingr_name_en": "NEW ORLEAN CHICKEN",
+                            "ingr_name_th": "ไก่นิวออร์ลีนส์",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "13",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CRB",
+                            "ingr_name": "CRABSTICKS",
+                            "ingr_name_en": "CRABSTICKS",
+                            "ingr_name_th": "ปูอัด",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "15",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ONI",
+                            "ingr_name": "ONIONS",
+                            "ingr_name_en": "ONIONS",
+                            "ingr_name_th": "หอมใหญ่",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "16",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "MUS",
+                            "ingr_name": "MUSHROOMS",
+                            "ingr_name_en": "MUSHROOMS",
+                            "ingr_name_th": "เห็ด",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "17",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PIN",
+                            "ingr_name": "PINEAPPLES",
+                            "ingr_name_en": "PINEAPPLES",
+                            "ingr_name_th": "สัปปะรด",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "18",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SMS",
+                            "ingr_name": "SMOKED SAUSAGE",
+                            "ingr_name_en": "SMOKED SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกรมควัน",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "19",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "MCH",
+                            "ingr_name": "MOZZARELLA CHEESE",
+                            "ingr_name_en": "MOZZARELLA CHEESE",
+                            "ingr_name_th": "มอสซาเรลล่าชีส",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "20",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "TOM",
+                            "ingr_name": "TOMATOES",
+                            "ingr_name_en": "TOMATOES",
+                            "ingr_name_th": "มะเขือเทศ",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "21",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "BAC",
+                            "ingr_name": "BACON",
+                            "ingr_name_en": "BACON",
+                            "ingr_name_th": "เบคอน",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "39",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "GCP",
+                            "ingr_name": "GREEN CAPSICUM",
+                            "ingr_name_en": "GREEN CAPSICUM",
+                            "ingr_name_th": "พริกหวานเขียว",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "45",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SFM",
+                            "ingr_name": "SEAFOOD MIXED",
+                            "ingr_name_en": "SEAFOOD MIXED",
+                            "ingr_name_th": "รวมมิตรทะเล",
+                            "price": 89
+                        },
+                        {
+                            "ingr_id": "5",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "HKC",
+                            "ingr_name": "HOKKAIDO CHEESE",
+                            "ingr_name_en": "HOKKAIDO CHEESE",
+                            "ingr_name_th": "ฮอกไกโดชีส",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "6",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PEP",
+                            "ingr_name": "PEPPERONI",
+                            "ingr_name_en": "PEPPERONI",
+                            "ingr_name_th": "เปปเปอโรนี",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "71",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ISA",
+                            "ingr_name": "ITALIAN SAUSAGE",
+                            "ingr_name_en": "ITALIAN SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกอิตาเลี่ยน",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "72",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SCH",
+                            "ingr_name": "SMOKED CHICKEN",
+                            "ingr_name_en": "SMOKED CHICKEN",
+                            "ingr_name_th": "ไก่รมควัน",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "77",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CHD",
+                            "ingr_name": "CHEESE DICED",
+                            "ingr_name_en": "CHEESE DICED",
+                            "ingr_name_th": "ชีสหั่นเต๋า",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "8",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PCH",
+                            "ingr_name": "PARMESAN CHEESE",
+                            "ingr_name_en": "PARMESAN CHEESE",
+                            "ingr_name_th": "พาร์เมซานชีส",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "9",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SHI",
+                            "ingr_name": "SHRIMP",
+                            "ingr_name_en": "SHRIMP",
+                            "ingr_name_th": "กุ้ง",
+                            "price": 89
+                        }
+                    ],
+                    "SAUCE": [
+                        {
+                            "ingr_id": "1",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CTS",
+                            "ingr_name": "CHUNKY TOMATO SAUCE",
+                            "ingr_name_en": "CHUNKY TOMATO SAUCE",
+                            "ingr_name_th": "ซอสมะเขือเทศสูตรพิเศษ",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "2",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ISS",
+                            "ingr_name": "THOUSAND ISLAND SAUCE",
+                            "ingr_name_en": "THOUSAND ISLAND SAUCE",
+                            "ingr_name_th": "ซอสเทาซันด์ไอแลนด์",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "37",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PS",
+                            "ingr_name": "PIZZA SAUCE",
+                            "ingr_name_en": "PIZZA SAUCE",
+                            "ingr_name_th": "ซอสพิซซ่า",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "43",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SBQ",
+                            "ingr_name": "SPICY BBQ SAUCE",
+                            "ingr_name_en": "SPICY BBQ SAUCE",
+                            "ingr_name_th": "ซอสสไปซี่บาร์บีคิว",
+                            "price": 0
+                        }
+                    ]
+                },
+                "M": {
+                    "TOPPING": [
+                        {
+                            "ingr_id": "10",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CSA",
+                            "ingr_name": "CHICKEN SAUSAGE",
+                            "ingr_name_en": "CHICKEN SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกไก่",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "102",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "JAPO",
+                            "ingr_name": "JALAPENO",
+                            "ingr_name_en": "JALAPENO",
+                            "ingr_name_th": "พริกจาลาปิโน",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "11",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "HAM",
+                            "ingr_name": "HAM",
+                            "ingr_name_en": "HAM",
+                            "ingr_name_th": "แฮม",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "12",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "NOC",
+                            "ingr_name": "NEW ORLEAN CHICKEN",
+                            "ingr_name_en": "NEW ORLEAN CHICKEN",
+                            "ingr_name_th": "ไก่นิวออร์ลีนส์",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "13",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CRB",
+                            "ingr_name": "CRABSTICKS",
+                            "ingr_name_en": "CRABSTICKS",
+                            "ingr_name_th": "ปูอัด",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "15",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ONI",
+                            "ingr_name": "ONIONS",
+                            "ingr_name_en": "ONIONS",
+                            "ingr_name_th": "หอมใหญ่",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "16",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "MUS",
+                            "ingr_name": "MUSHROOMS",
+                            "ingr_name_en": "MUSHROOMS",
+                            "ingr_name_th": "เห็ด",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "17",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PIN",
+                            "ingr_name": "PINEAPPLES",
+                            "ingr_name_en": "PINEAPPLES",
+                            "ingr_name_th": "สัปปะรด",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "18",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SMS",
+                            "ingr_name": "SMOKED SAUSAGE",
+                            "ingr_name_en": "SMOKED SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกรมควัน",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "19",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "MCH",
+                            "ingr_name": "MOZZARELLA CHEESE",
+                            "ingr_name_en": "MOZZARELLA CHEESE",
+                            "ingr_name_th": "มอสซาเรลล่าชีส",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "20",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "TOM",
+                            "ingr_name": "TOMATOES",
+                            "ingr_name_en": "TOMATOES",
+                            "ingr_name_th": "มะเขือเทศ",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "21",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "BAC",
+                            "ingr_name": "BACON",
+                            "ingr_name_en": "BACON",
+                            "ingr_name_th": "เบคอน",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "39",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "GCP",
+                            "ingr_name": "GREEN CAPSICUM",
+                            "ingr_name_en": "GREEN CAPSICUM",
+                            "ingr_name_th": "พริกหวานเขียว",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "45",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SFM",
+                            "ingr_name": "SEAFOOD MIXED",
+                            "ingr_name_en": "SEAFOOD MIXED",
+                            "ingr_name_th": "รวมมิตรทะเล",
+                            "price": 79
+                        },
+                        {
+                            "ingr_id": "5",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "HKC",
+                            "ingr_name": "HOKKAIDO CHEESE",
+                            "ingr_name_en": "HOKKAIDO CHEESE",
+                            "ingr_name_th": "ฮอกไกโดชีส",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "6",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PEP",
+                            "ingr_name": "PEPPERONI",
+                            "ingr_name_en": "PEPPERONI",
+                            "ingr_name_th": "เปปเปอโรนี",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "71",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ISA",
+                            "ingr_name": "ITALIAN SAUSAGE",
+                            "ingr_name_en": "ITALIAN SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกอิตาเลี่ยน",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "72",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SCH",
+                            "ingr_name": "SMOKED CHICKEN",
+                            "ingr_name_en": "SMOKED CHICKEN",
+                            "ingr_name_th": "ไก่รมควัน",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "77",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CHD",
+                            "ingr_name": "CHEESE DICED",
+                            "ingr_name_en": "CHEESE DICED",
+                            "ingr_name_th": "ชีสหั่นเต๋า",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "8",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PCH",
+                            "ingr_name": "PARMESAN CHEESE",
+                            "ingr_name_en": "PARMESAN CHEESE",
+                            "ingr_name_th": "พาร์เมซานชีส",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "9",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SHI",
+                            "ingr_name": "SHRIMP",
+                            "ingr_name_en": "SHRIMP",
+                            "ingr_name_th": "กุ้ง",
+                            "price": 79
+                        }
+                    ],
+                    "SAUCE": [
+                        {
+                            "ingr_id": "1",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CTS",
+                            "ingr_name": "CHUNKY TOMATO SAUCE",
+                            "ingr_name_en": "CHUNKY TOMATO SAUCE",
+                            "ingr_name_th": "ซอสมะเขือเทศสูตรพิเศษ",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "2",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ISS",
+                            "ingr_name": "THOUSAND ISLAND SAUCE",
+                            "ingr_name_en": "THOUSAND ISLAND SAUCE",
+                            "ingr_name_th": "ซอสเทาซันด์ไอแลนด์",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "37",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PS",
+                            "ingr_name": "PIZZA SAUCE",
+                            "ingr_name_en": "PIZZA SAUCE",
+                            "ingr_name_th": "ซอสพิซซ่า",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "43",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SBQ",
+                            "ingr_name": "SPICY BBQ SAUCE",
+                            "ingr_name_en": "SPICY BBQ SAUCE",
+                            "ingr_name_th": "ซอสสไปซี่บาร์บีคิว",
+                            "price": 0
+                        }
+                    ]
+                },
+                "NPL10": {
+                    "TOPPING": [
+                        {
+                            "ingr_id": "10",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CSA",
+                            "ingr_name": "CHICKEN SAUSAGE",
+                            "ingr_name_en": "CHICKEN SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกไก่",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "102",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "JAPO",
+                            "ingr_name": "JALAPENO",
+                            "ingr_name_en": "JALAPENO",
+                            "ingr_name_th": "พริกจาลาปิโน",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "11",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "HAM",
+                            "ingr_name": "HAM",
+                            "ingr_name_en": "HAM",
+                            "ingr_name_th": "แฮม",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "12",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "NOC",
+                            "ingr_name": "NEW ORLEAN CHICKEN",
+                            "ingr_name_en": "NEW ORLEAN CHICKEN",
+                            "ingr_name_th": "ไก่นิวออร์ลีนส์",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "13",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CRB",
+                            "ingr_name": "CRABSTICKS",
+                            "ingr_name_en": "CRABSTICKS",
+                            "ingr_name_th": "ปูอัด",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "15",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ONI",
+                            "ingr_name": "ONIONS",
+                            "ingr_name_en": "ONIONS",
+                            "ingr_name_th": "หอมใหญ่",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "16",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "MUS",
+                            "ingr_name": "MUSHROOMS",
+                            "ingr_name_en": "MUSHROOMS",
+                            "ingr_name_th": "เห็ด",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "17",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PIN",
+                            "ingr_name": "PINEAPPLES",
+                            "ingr_name_en": "PINEAPPLES",
+                            "ingr_name_th": "สัปปะรด",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "18",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SMS",
+                            "ingr_name": "SMOKED SAUSAGE",
+                            "ingr_name_en": "SMOKED SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกรมควัน",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "19",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "MCH",
+                            "ingr_name": "MOZZARELLA CHEESE",
+                            "ingr_name_en": "MOZZARELLA CHEESE",
+                            "ingr_name_th": "มอสซาเรลล่าชีส",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "20",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "TOM",
+                            "ingr_name": "TOMATOES",
+                            "ingr_name_en": "TOMATOES",
+                            "ingr_name_th": "มะเขือเทศ",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "21",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "BAC",
+                            "ingr_name": "BACON",
+                            "ingr_name_en": "BACON",
+                            "ingr_name_th": "เบคอน",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "39",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "GCP",
+                            "ingr_name": "GREEN CAPSICUM",
+                            "ingr_name_en": "GREEN CAPSICUM",
+                            "ingr_name_th": "พริกหวานเขียว",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "45",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SFM",
+                            "ingr_name": "SEAFOOD MIXED",
+                            "ingr_name_en": "SEAFOOD MIXED",
+                            "ingr_name_th": "รวมมิตรทะเล",
+                            "price": 79
+                        },
+                        {
+                            "ingr_id": "5",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "HKC",
+                            "ingr_name": "HOKKAIDO CHEESE",
+                            "ingr_name_en": "HOKKAIDO CHEESE",
+                            "ingr_name_th": "ฮอกไกโดชีส",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "6",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PEP",
+                            "ingr_name": "PEPPERONI",
+                            "ingr_name_en": "PEPPERONI",
+                            "ingr_name_th": "เปปเปอโรนี",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "71",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ISA",
+                            "ingr_name": "ITALIAN SAUSAGE",
+                            "ingr_name_en": "ITALIAN SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกอิตาเลี่ยน",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "72",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SCH",
+                            "ingr_name": "SMOKED CHICKEN",
+                            "ingr_name_en": "SMOKED CHICKEN",
+                            "ingr_name_th": "ไก่รมควัน",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "77",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CHD",
+                            "ingr_name": "CHEESE DICED",
+                            "ingr_name_en": "CHEESE DICED",
+                            "ingr_name_th": "ชีสหั่นเต๋า",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "8",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PCH",
+                            "ingr_name": "PARMESAN CHEESE",
+                            "ingr_name_en": "PARMESAN CHEESE",
+                            "ingr_name_th": "พาร์เมซานชีส",
+                            "price": 59
+                        },
+                        {
+                            "ingr_id": "9",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SHI",
+                            "ingr_name": "SHRIMP",
+                            "ingr_name_en": "SHRIMP",
+                            "ingr_name_th": "กุ้ง",
+                            "price": 79
+                        }
+                    ],
+                    "SAUCE": [
+                        {
+                            "ingr_id": "1",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CTS",
+                            "ingr_name": "CHUNKY TOMATO SAUCE",
+                            "ingr_name_en": "CHUNKY TOMATO SAUCE",
+                            "ingr_name_th": "ซอสมะเขือเทศสูตรพิเศษ",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "2",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ISS",
+                            "ingr_name": "THOUSAND ISLAND SAUCE",
+                            "ingr_name_en": "THOUSAND ISLAND SAUCE",
+                            "ingr_name_th": "ซอสเทาซันด์ไอแลนด์",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "37",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PS",
+                            "ingr_name": "PIZZA SAUCE",
+                            "ingr_name_en": "PIZZA SAUCE",
+                            "ingr_name_th": "ซอสพิซซ่า",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "43",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SBQ",
+                            "ingr_name": "SPICY BBQ SAUCE",
+                            "ingr_name_en": "SPICY BBQ SAUCE",
+                            "ingr_name_th": "ซอสสไปซี่บาร์บีคิว",
+                            "price": 0
+                        }
+                    ]
+                },
+                "S": {
+                    "TOPPING": [
+                        {
+                            "ingr_id": "10",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CSA",
+                            "ingr_name": "CHICKEN SAUSAGE",
+                            "ingr_name_en": "CHICKEN SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกไก่",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "102",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "JAPO",
+                            "ingr_name": "JALAPENO",
+                            "ingr_name_en": "JALAPENO",
+                            "ingr_name_th": "พริกจาลาปิโน",
+                            "price": 39
+                        },
+                        {
+                            "ingr_id": "11",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "HAM",
+                            "ingr_name": "HAM",
+                            "ingr_name_en": "HAM",
+                            "ingr_name_th": "แฮม",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "12",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "NOC",
+                            "ingr_name": "NEW ORLEAN CHICKEN",
+                            "ingr_name_en": "NEW ORLEAN CHICKEN",
+                            "ingr_name_th": "ไก่นิวออร์ลีนส์",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "13",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CRB",
+                            "ingr_name": "CRABSTICKS",
+                            "ingr_name_en": "CRABSTICKS",
+                            "ingr_name_th": "ปูอัด",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "15",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ONI",
+                            "ingr_name": "ONIONS",
+                            "ingr_name_en": "ONIONS",
+                            "ingr_name_th": "หอมใหญ่",
+                            "price": 39
+                        },
+                        {
+                            "ingr_id": "16",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "MUS",
+                            "ingr_name": "MUSHROOMS",
+                            "ingr_name_en": "MUSHROOMS",
+                            "ingr_name_th": "เห็ด",
+                            "price": 39
+                        },
+                        {
+                            "ingr_id": "17",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PIN",
+                            "ingr_name": "PINEAPPLES",
+                            "ingr_name_en": "PINEAPPLES",
+                            "ingr_name_th": "สัปปะรด",
+                            "price": 39
+                        },
+                        {
+                            "ingr_id": "18",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SMS",
+                            "ingr_name": "SMOKED SAUSAGE",
+                            "ingr_name_en": "SMOKED SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกรมควัน",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "19",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "MCH",
+                            "ingr_name": "MOZZARELLA CHEESE",
+                            "ingr_name_en": "MOZZARELLA CHEESE",
+                            "ingr_name_th": "มอสซาเรลล่าชีส",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "20",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "TOM",
+                            "ingr_name": "TOMATOES",
+                            "ingr_name_en": "TOMATOES",
+                            "ingr_name_th": "มะเขือเทศ",
+                            "price": 39
+                        },
+                        {
+                            "ingr_id": "21",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "BAC",
+                            "ingr_name": "BACON",
+                            "ingr_name_en": "BACON",
+                            "ingr_name_th": "เบคอน",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "39",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "GCP",
+                            "ingr_name": "GREEN CAPSICUM",
+                            "ingr_name_en": "GREEN CAPSICUM",
+                            "ingr_name_th": "พริกหวานเขียว",
+                            "price": 39
+                        },
+                        {
+                            "ingr_id": "45",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SFM",
+                            "ingr_name": "SEAFOOD MIXED",
+                            "ingr_name_en": "SEAFOOD MIXED",
+                            "ingr_name_th": "รวมมิตรทะเล",
+                            "price": 69
+                        },
+                        {
+                            "ingr_id": "5",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "HKC",
+                            "ingr_name": "HOKKAIDO CHEESE",
+                            "ingr_name_en": "HOKKAIDO CHEESE",
+                            "ingr_name_th": "ฮอกไกโดชีส",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "6",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PEP",
+                            "ingr_name": "PEPPERONI",
+                            "ingr_name_en": "PEPPERONI",
+                            "ingr_name_th": "เปปเปอโรนี",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "71",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ISA",
+                            "ingr_name": "ITALIAN SAUSAGE",
+                            "ingr_name_en": "ITALIAN SAUSAGE",
+                            "ingr_name_th": "ไส้กรอกอิตาเลี่ยน",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "72",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SCH",
+                            "ingr_name": "SMOKED CHICKEN",
+                            "ingr_name_en": "SMOKED CHICKEN",
+                            "ingr_name_th": "ไก่รมควัน",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "77",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CHD",
+                            "ingr_name": "CHEESE DICED",
+                            "ingr_name_en": "CHEESE DICED",
+                            "ingr_name_th": "ชีสหั่นเต๋า",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "8",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PCH",
+                            "ingr_name": "PARMESAN CHEESE",
+                            "ingr_name_en": "PARMESAN CHEESE",
+                            "ingr_name_th": "พาร์เมซานชีส",
+                            "price": 49
+                        },
+                        {
+                            "ingr_id": "9",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SHI",
+                            "ingr_name": "SHRIMP",
+                            "ingr_name_en": "SHRIMP",
+                            "ingr_name_th": "กุ้ง",
+                            "price": 69
+                        }
+                    ],
+                    "SAUCE": [
+                        {
+                            "ingr_id": "1",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "CTS",
+                            "ingr_name": "CHUNKY TOMATO SAUCE",
+                            "ingr_name_en": "CHUNKY TOMATO SAUCE",
+                            "ingr_name_th": "ซอสมะเขือเทศสูตรพิเศษ",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "2",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "ISS",
+                            "ingr_name": "THOUSAND ISLAND SAUCE",
+                            "ingr_name_en": "THOUSAND ISLAND SAUCE",
+                            "ingr_name_th": "ซอสเทาซันด์ไอแลนด์",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "37",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "PS",
+                            "ingr_name": "PIZZA SAUCE",
+                            "ingr_name_en": "PIZZA SAUCE",
+                            "ingr_name_th": "ซอสพิซซ่า",
+                            "price": 0
+                        },
+                        {
+                            "ingr_id": "43",
+                            "ingr_group": "PIZZA",
+                            "ingr_code": "SBQ",
+                            "ingr_name": "SPICY BBQ SAUCE",
+                            "ingr_name_en": "SPICY BBQ SAUCE",
+                            "ingr_name_th": "ซอสสไปซี่บาร์บีคิว",
+                            "price": 0
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

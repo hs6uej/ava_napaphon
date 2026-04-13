@@ -1,0 +1,104 @@
+{
+    "group": "GIFT",
+    "categories": [
+        {
+            "id": "FREEGIFT",
+            "name_en": "Free Gift",
+            "name_th": "ของขวัญพิเศษ",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "PROMOTION|FRDELIV|FREE Delivery 50B",
+                    "product_type": "PROMOTION",
+                    "code": "FRDELIV",
+                    "name": "FREE Delivery 50B",
+                    "name_en": "Free Delivery",
+                    "name_th": "ฟรีค่าจัดส่ง",
+                    "description_en": "",
+                    "description_th": "",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": -39,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|GIFT|FRDELIV",
+                            "product_type": "GIFT",
+                            "name_en": "Choose Gift",
+                            "name_th": "เลือกของขวัญ",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "GIFT|FRDEW|Free Delivery",
+                                    "product_type": "GIFT",
+                                    "code": "FRDEW",
+                                    "name": "Free Delivery",
+                                    "name_en": "Free Delivery",
+                                    "name_th": "Free Delivery",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "55",
+                                            "sizecode": "FREE",
+                                            "sizename_en": "",
+                                            "sizename_th": "",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|M300FP|MIN 300 FREE 2 PEP",
+                    "product_type": "PROMOTION",
+                    "code": "M300FP",
+                    "name": "MIN 300 FREE 2 PEP",
+                    "name_en": "Free Pepsi 16oz 2 cup",
+                    "name_th": "ฟรีเป๊ปซี่ 16 ออนซ์ 2 แก้ว",
+                    "description_en": "",
+                    "description_th": "",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 0,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|DRINK|M300FP",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|2PEP16|2xPEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "2PEP16",
+                                    "name": "2xPEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz 2 cups",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์ 2 แก้ว",
+                                    "description_en": "Pepsi 16oz 2 cup",
+                                    "description_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์ 2 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1387 @@
+{
+    "group": "APPETIZERS",
+    "categories": [
+        {
+            "id": "SALAD",
+            "name_en": "Salad",
+            "name_th": "สลัด",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "SIDE ORDER|CSD|CAESAR SALAD",
+                    "category_group": "SALAD",
+                    "product_type": "SIDE ORDER",
+                    "code": "CSD",
+                    "name": "CAESAR SALAD",
+                    "name_en": "Caesar Salad",
+                    "name_th": "สลัดซีซาร์",
+                    "description_en": "Salad, fresh vegetables, topped with crispy bacon, crouton with signature Caesar sauce.",
+                    "description_th": "สลัด ผักสดกรอบ โรยเบคอนกรอบ กรูตองกรุบ ชีสหอมๆ พร้อมซอสซีซาร์ซิกเนเจอร์",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 99
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|GAWTS|GARDEN SALAD WITH THOUSAND ISLAND SAUCE",
+                    "category_group": "SALAD",
+                    "product_type": "SIDE ORDER",
+                    "code": "GAWTS",
+                    "name": "GARDEN SALAD WITH THOUSAND ISLAND SAUCE",
+                    "name_en": "Garden Salad with Thousand Island Sauce",
+                    "name_th": "สลัดการ์เดน ซอสเทาซันด์ไอแลนด์",
+                    "description_en": "Popular Thousand Salad Dressing with fresh vegetables, sprinkled with crispy crouton",
+                    "description_th": "น้ำสลัดเทาซันด์ยอดนิยมทานคู่กับ ผักสดกรอบ กรูตอง เข้ากันเป็นอย่างดี",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 99
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|SPTS|SPICY TUNA SALAD",
+                    "category_group": "SALAD",
+                    "product_type": "SIDE ORDER",
+                    "code": "SPTS",
+                    "name": "SPICY TUNA SALAD",
+                    "name_en": "Spicy Tuna Salad",
+                    "name_th": "สลัดสไปซี่ทูน่า",
+                    "description_en": "Salad with crisp fresh vegetables and a delicious, spicy, sour, and sweet dressing.",
+                    "description_th": "สลัด ผักสดกรอบ และน้ำยำรสเด็ด เผ็ด เปรี้ยวหวาน",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 129
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "STEAK",
+            "name_en": "Steak",
+            "name_th": "สเต๊ก",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "PASTA|PCSTK|SPICY CHICKEN STEAK",
+                    "category_group": "STEAK",
+                    "product_type": "PASTA",
+                    "code": "PCSTK",
+                    "name": "SPICY CHICKEN STEAK",
+                    "name_en": "Spicy Chicken Steak",
+                    "name_th": "สเต๊กไก่สไปซี่",
+                    "description_en": "Juicy Spicy Chicken – Tender, flavorful, and perfectly infused with spice, served with fresh salad and French fries.",
+                    "description_th": "เนื้อไก่สไปซี่สุดฉ่ำ หอมนุ่ม รสชาติจัดจ้านเข้าเนื้อ ทานคู่กับผักสลัด และเฟรนช์ฟรายส์",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 129
+                        }
+                    ],
+                    "filter_type": [
+                        "chicken"
+                    ]
+                },
+                {
+                    "id": "PASTA|FADC|FISH AND CHIPS",
+                    "category_group": "STEAK",
+                    "product_type": "PASTA",
+                    "code": "FADC",
+                    "name": "FISH AND CHIPS",
+                    "name_en": "Fish and Chip",
+                    "name_th": "ฟิช แอนด์ ชิปส์",
+                    "description_en": "Original Fish and Chips, crispy on the outside and soft on the inside. Eat with Curly Fries, Dip and Tartar Sauce, so satisfying.",
+                    "description_th": "ฟิช แอนด์ ชิปส์ ออริจินอล กรอบนอกนุ่มใน ทานคู่กับเคอร์ลี่ ฟรายส์ ดิปกับทาร์ทาร์ซอสสุดฟิน",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 169
+                        }
+                    ],
+                    "filter_type": [
+                        "seafood"
+                    ]
+                },
+                {
+                    "id": "PASTA|PCH|PORKCHOP",
+                    "category_group": "STEAK",
+                    "product_type": "PASTA",
+                    "code": "PCH",
+                    "name": "PORKCHOP",
+                    "name_en": "Porkchop",
+                    "name_th": "พอร์คชอป",
+                    "description_en": "Signature Pork Chop – Grilled to smoky perfection with a juicy bite, paired with fresh salad and French fries.",
+                    "description_th": "พอร์คชอปสูตรซิกเนเจอร์ ย่างจนหอมชุ่มฉ่ำ ทานคู่กับผักสลัด และเฟรนช์ฟรายส์ เข้ากันสุดๆ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 199
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                },
+                {
+                    "id": "PASTA|RB|RIBS",
+                    "category_group": "STEAK",
+                    "product_type": "PASTA",
+                    "code": "RB",
+                    "name": "RIBS",
+                    "name_en": "Ribs",
+                    "name_th": "ซี่โครงหมู ซอสบาร์บีคิว",
+                    "description_en": "Premium Pork Ribs – Succulent and aromatic, grilled to juicy tenderness, served with fresh salad and French fries.",
+                    "description_th": "ซี่โครงหมูสุดพรีเมียม กริลจนหอมฉ่ำ ทานคู่กับผักสลัด และเฟรนฟรายส์",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 209
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                },
+                {
+                    "id": "PASTA|SKPSS|SMOKED PORK SAUSAGE",
+                    "category_group": "STEAK",
+                    "product_type": "PASTA",
+                    "code": "SKPSS",
+                    "name": "SMOKED PORK SAUSAGE",
+                    "name_en": "Smoked Pork Sausage",
+                    "name_th": "ไส้กรอกหมูรมควัน",
+                    "description_en": "Pork sausage, rich in flavor and with a smoky aroma.",
+                    "description_th": "ไส้กรอกหมู เข้มข้น หอมกลิ่นรมควัน",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 129
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                },
+                {
+                    "id": "PASTA|HWCST|HAWAIIAN CHICKEN STEAK",
+                    "category_group": "STEAK",
+                    "product_type": "PASTA",
+                    "code": "HWCST",
+                    "name": "HAWAIIAN CHICKEN STEAK",
+                    "name_en": "Hawaiian Chicken Steak",
+                    "name_th": "สเต๊กไก่ฮาวาย",
+                    "description_en": "Hawaiian-style grilled chicken steak served with pineapple.",
+                    "description_th": "สเต๊กไก่ย่าง สไตล์ฮาวายเอี้ยน เสิร์ฟพร้อมสับปะรด",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 139
+                        }
+                    ],
+                    "filter_type": [
+                        "chicken"
+                    ]
+                },
+                {
+                    "id": "PASTA|CKSBC|CHICKEN STEAK BACON CHEESE",
+                    "category_group": "STEAK",
+                    "product_type": "PASTA",
+                    "code": "CKSBC",
+                    "name": "CHICKEN STEAK BACON CHEESE",
+                    "name_en": "Grilled Chicken Steak with Bacon and Cheese",
+                    "name_th": "สเต๊กไก่ย่างเบคอนชีส",
+                    "description_en": "Grilled chicken steak topped with bacon and cheese.",
+                    "description_th": "สเต๊กไก่ย่าง ท็อปด้วยเบคอนและชีส",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 159
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                },
+                {
+                    "id": "PASTA|MFCK|MAFIA CHICKEN",
+                    "category_group": "STEAK",
+                    "product_type": "PASTA",
+                    "code": "MFCK",
+                    "name": "MAFIA CHICKEN",
+                    "name_en": "Mafia Chicken with White Creamy Mushroom Sauce",
+                    "name_th": "ไก่มาเฟีย (ไก่ทอดจัมโบ้ ซอสไวท์ครีมเห็ด)",
+                    "description_en": "Crispy jumbo fried chicken topped with white creamy mushroom sauce",
+                    "description_th": "ไก่ทอดชิ้นใหญ่ กรอบนอกนุ่มใน ราดซอสไวท์ครีมเห็ด",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 189
+                        }
+                    ],
+                    "filter_type": [
+                        "chicken"
+                    ]
+                },
+                {
+                    "id": "PASTA|OLST|PORK LOIN STEAK",
+                    "category_group": "STEAK",
+                    "product_type": "PASTA",
+                    "code": "OLST",
+                    "name": "PORK LOIN STEAK",
+                    "name_en": "Pork Loin Steak",
+                    "name_th": "สเต๊กหมูสันนอก",
+                    "description_en": "Tender and juicy pork loin steak, perfectly grilled, topped with a rich and flavorful sauce.",
+                    "description_th": "สเต๊กสันนอกหมูนุ่ม ฉ่ำ ย่างสุกพอดี ราดซอสเข้มข้น รสกลมกล่อม",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 139
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "PASTA",
+            "name_en": "Spaghetti",
+            "name_th": "สปาเก็ตตี้",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "PASTA|WCS|SPAGHETTI WHITE CREAM SAUCE",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "WCS",
+                    "name": "SPAGHETTI WHITE CREAM SAUCE",
+                    "name_en": "Spaghetti in White Cream Sauce",
+                    "name_th": "สปาเก็ตตี้ไวท์ครีมซอส",
+                    "description_en": "The taste of white cream sauce is extremely rich. Cream pairs well with ham and is very popular.",
+                    "description_th": "รสชาติไวท์ครีมซอสเข้มข้นสุดนัว ครีมมี ทานคู่กับแฮม ถูกปากคนไทยสุดๆ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 129
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                },
+                {
+                    "id": "PASTA|ITC|SPAGHETTI ITALIAN CHICKEN",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "ITC",
+                    "name": "SPAGHETTI ITALIAN CHICKEN",
+                    "name_en": "Spaghetti Italian Chicken",
+                    "name_th": "สปาเก็ตตี้อิตาเลียนชิกเก้น",
+                    "description_en": "Italian-style sauce, rich and full with chicken cooked to perfection,",
+                    "description_th": "ซอสสไตล์อิตาเลียน เข้มข้น เนื้อไก่ให้แบบจัดเต็ม หอมกรุ่นสไตล์อิตาเลียนแท้",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 129
+                        }
+                    ],
+                    "filter_type": [
+                        "chicken"
+                    ]
+                },
+                {
+                    "id": "PASTA|DCB|SPAGHETTI DRIED CHILLI AND BACON",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "DCB",
+                    "name": "SPAGHETTI DRIED CHILLI AND BACON",
+                    "name_en": "Spaghetti Dried Chilli and Bacon",
+                    "name_th": "สปาเก็ตตี้เบคอนผัดพริกแห้ง",
+                    "description_en": "Strong taste Stir-fried concentrated dried chilies spicy with crispy and crispy bacon. Spaghetti lovers must love it.",
+                    "description_th": "รสชาติจัดจ้าน ผัดพริกแห้งเข้มข้น แซ่บซี้ดถึงใจ โรยด้วยเบคอนกรอบๆหอมๆ คนรักสปาเก็ตตี้ต้องเลิฟ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 139
+                        }
+                    ],
+                    "filter_type": [
+                        "pork",
+                        "hot"
+                    ]
+                },
+                {
+                    "id": "PASTA|ITVG|SPAGHETTI ITALIAN VEGGIE",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "ITVG",
+                    "name": "SPAGHETTI ITALIAN VEGGIE",
+                    "name_en": "Spaghetti Italian Veggie",
+                    "name_th": "สปาเก็ตตี้ อิตาเลียนเวจจี้",
+                    "description_en": "Spaghetti for vegetarians no meat It gives a rich sweet & sour sauce flavor along with various vegetables.",
+                    "description_th": "สปาเก็ตตี้สำหรับคนทานมังสวิรัติ เพราะไม่มีเนื้อสัตว์ โดยให้รสชาติซอส sweet & sour เข้มข้น พร้อมผักต่างๆ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 139
+                        }
+                    ],
+                    "filter_type": [
+                        "veggie"
+                    ]
+                },
+                {
+                    "id": "PASTA|PBLN|SPAGHETTI PORK BOLOGNESE",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "PBLN",
+                    "name": "SPAGHETTI PORK BOLOGNESE",
+                    "name_en": "Spaghetti Pork Bolognese",
+                    "name_th": "สปาเก็ตตี้ โบลองเนสหมู",
+                    "description_en": "Spaghetti pork Bolognese. The flavor of the rich tomato sauce is easy to eat with minced pork. Children can eat it and adults will like it.",
+                    "description_th": "อีกหนึ่งทางเลือกสำหรับสปาเก็ตตี้โบลองเนสหมู ที่รสชาติซอสมะเขือเทศเข้มข้น ทานง่าย พร้อมหมูสับ เด็กทานได้ ผู้ใหญ่โดนใจ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 149
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                },
+                {
+                    "id": "PASTA|CBNR|SPAGHETTI CARBONARA CRISPY BACON",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "CBNR",
+                    "name": "SPAGHETTI CARBONARA CRISPY BACON",
+                    "name_en": "Spaghetti Carbonara Crispy Bacon",
+                    "name_th": "สปาเก็ตตี้ คาโบนาร่าเบคอนกรอบ",
+                    "description_en": "Super creamy spaghetti real cabonara crispy bacon using egg yolks to make the sauce, resulting in a rich, creamy taste cheese, delicious aroma and full carbonara flavor.",
+                    "description_th": "สปาเก็ตตี้สุดครีมมี่ เป็น real cabonara ที่แท้จริงที่ถูกต้อง โดยใช้ไข่แดง เป็นตัวทำซอส ทำให้ได้รสชาติที่เข้มข้นครีมมี่ และโรยเบคอนกรอบ ชีส หอมอร่อยรสชาติคาโบนาร่าเต็มคำ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 149
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                },
+                {
+                    "id": "PASTA|ITS|SPAGHETTI ITALIAN SEAFOOD",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "ITS",
+                    "name": "SPAGHETTI ITALIAN SEAFOOD",
+                    "name_en": "Spaghetti Italian Seafood",
+                    "name_th": "สปาเก็ตตี้อิตาเลียนซีฟู้ด",
+                    "description_en": "Spaghetti with Italian sauce, loaded with seafood, including shrimp, squid, and mussels, is a signature pasta dish of Italians",
+                    "description_th": "สปาเก็ตตี้อิตาเลียนซอส เครื่องซีฟู้ดจัดเต็ม ทั้งกุ้ง ปลาหมึก หอยแมลงภู่ เป็นพาสต้าจานเด่นของชาวอิตาเลียนเลยก็ว่าได้",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 179
+                        }
+                    ],
+                    "filter_type": [
+                        "seafood"
+                    ]
+                },
+                {
+                    "id": "PASTA|KMSF|SPAGHETTI KHEE MAO SEAFOOD",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "KMSF",
+                    "name": "SPAGHETTI KHEE MAO SEAFOOD",
+                    "name_en": "Spaghetti Khee Mao Seafood",
+                    "name_th": "สปาเก็ตตี้ ขี้เมาซีฟู๊ด",
+                    "description_en": "Spicy flavored spaghetti of spices Thai style Full of seafood with shrimp, shellfish, squid, it's super delicious",
+                    "description_th": "สปาเก็ตตี้รสชาติจัดจ้าน หอมกลิ่นเครื่องเทศถึงใจ เอาใจคนรักสปาเก็ตตี้สไตล์ไทย เครื่องทะเลเต็มคำ ไม่ว่าจะเป็นกุ้ง หอย ปลาหมึก แซ่บซี้ดโดนใจ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 179
+                        }
+                    ],
+                    "filter_type": [
+                        "seafood",
+                        "hot"
+                    ]
+                },
+                {
+                    "id": "PASTA|MWC|BAKED MACARONI WHITE CREAM SAUCE",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "MWC",
+                    "name": "BAKED MACARONI WHITE CREAM SAUCE",
+                    "name_en": "Baked Macaroni in White Cream Sauce",
+                    "name_th": "มักกะโรนีอบชีสแฮมเห็ดไวท์ครีมซอส",
+                    "description_en": "Makaroni paired with intensely rich white cream sauce, topped with fully-loaded cheese, incredibly creamy. ham and mushrooms go well together.",
+                    "description_th": "มักกะโรนีทานคู่กับ ซอสไวท์ครีมสุดเข้มข้น ให้ชีสแบบจัดเต็ม นัวสุดๆ ครีมมี ทานคู่กับแฮมและเห็ด เข้ากันอย่างดี",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 159
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                },
+                {
+                    "id": "PASTA|MCP|BAKED MACARONI CHEESY SHRIMP",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "MCP",
+                    "name": "BAKED MACARONI CHEESY SHRIMP",
+                    "name_en": "Baked Macaroni Cheesy Shrimp",
+                    "name_th": "มักกะโรนีกุ้งอบชีส",
+                    "description_en": "The paradise for shrimp lovers, eaten with a cheesy incredibly delicious. It's the favorite macaroni dish.",
+                    "description_th": "สวรรค์ของคนรักกุ้ง ทานคู่กับชีสเยิ้มๆ อร่อยสุดนัว เป็นมักกะโรนีจานโปรด",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 159
+                        }
+                    ],
+                    "filter_type": [
+                        "seafood"
+                    ]
+                },
+                {
+                    "id": "PASTA|MIC|BAKED MACARONI ITALIAN CHICKEN",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "MIC",
+                    "name": "BAKED MACARONI ITALIAN CHICKEN",
+                    "name_en": "Baked Macaroni Italian Chicken",
+                    "name_th": "มักกะโรนีชิกเก้นอบชีส",
+                    "description_en": "Hot baked macaroni, eaten with chicken, full with cheesy so delicious.",
+                    "description_th": "มักกะโรนีอบร้อนๆ ทานคู่กับชิกเก้น หอมชีสเยิ้มยืด อร่อยจนวางไม่ลง",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 159
+                        }
+                    ],
+                    "filter_type": [
+                        "chicken"
+                    ]
+                },
+                {
+                    "id": "PASTA|LSGN|LASAGNA",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "LSGN",
+                    "name": "LASAGNA",
+                    "name_en": "Lasagna",
+                    "name_th": "ลาซานญ่า",
+                    "description_en": "Lasagna, rich sauce flavor, alternating layers of cheese, softness of the pasta sheets, seasoned ground pork, perfectly delicious.",
+                    "description_th": "ลาซานญ่า รสชาติซอสเข้มข้น สลับชั้นชีส หอมชีส ความนวลของแผ่นพาสต้า หมูบดปรุงรส อร่อยลงตัว",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 189
+                        }
+                    ],
+                    "filter_type": [
+                        "pork"
+                    ]
+                },
+                {
+                    "id": "PASTA|BSPN|BAKED SPINACH",
+                    "category_group": "PASTA",
+                    "product_type": "PASTA",
+                    "code": "BSPN",
+                    "name": "BAKED SPINACH",
+                    "name_en": "Baked Spinach",
+                    "name_th": "ผักโขมอบชีส",
+                    "description_en": "All-time best-selling with Baked Spinach Supreme, covered with cheese, freshly baked and enjoyed with deliciously tender Spinach Supreme.",
+                    "description_th": "เมนูขายดีตลอดกาล กับผักโขมอบชีส ให้ชีสล้นๆ อบมาร้อนๆ ทานคู่กับผักโขมสุดฟิน",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "17",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 169
+                        }
+                    ],
+                    "filter_type": [
+                        "veggie"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "APPETIZERS",
+            "name_en": "Appetizers",
+            "name_th": "ของทานเล่น",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "SIDE ORDER|FDBBQ|FISH DONUT with BBQ SAUCE",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "FDBBQ",
+                    "name": "FISH DONUT with BBQ SAUCE",
+                    "name_en": "Fish Donut with BBQ Sauce",
+                    "name_th": "ฟิชโดนัท พร้อมซอสบาร์บีคิว",
+                    "description_en": "Crunchy outside, tender inside, bursting with flavor, delightful to chew. Dip with barbecue sauce.",
+                    "description_th": "กรอบนอกนุ่มใน เด้งสุดๆ เคี้ยวเพลิน ดิปคู่กับซอสบาร์บีคิวเข้มข้น",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "10",
+                            "sizecode": "6PCS",
+                            "sizename_en": "6 PIECES",
+                            "sizename_th": "6 ชิ้น",
+                            "price": 99
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|BSX|BREAD STICK with DIPPING SAUCE",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "BSX",
+                    "name": "BREAD STICK with DIPPING SAUCE",
+                    "name_en": "Breadstick with Dipping Sauce",
+                    "name_th": "เบรดสติ๊ก พร้อมดิปปิ้งซอส",
+                    "description_en": "Breadsticks, 6 pieces, crispy outside, soft inside, with a fragrant oregano Dip with delicious sauce.",
+                    "description_th": "เบรดสติ๊ก 6 ชิ้น กรอบนอกนุ่มในหอมออริกาโน ดิปคู่ซอสสุดอร่อย",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "10",
+                            "sizecode": "6PCS",
+                            "sizename_en": "6 PIECES",
+                            "sizename_th": "6 ชิ้น",
+                            "price": 59
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|CHP|CHICKEN POP",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "CHP",
+                    "name": "CHICKEN POP",
+                    "name_en": "Chicken Pops",
+                    "name_th": "ชิกเก้นป๊อป",
+                    "description_en": "A Popular Menu, Chicken Pops, Incredibly Enjoyable.",
+                    "description_th": "เมนูยอดนิยม ชิกเก้นป็อป กินเพลินสุดๆ แสนอร่อย",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 89
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|ORG|ONION RING",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "ORG",
+                    "name": "ONION RING",
+                    "name_en": "Onion Ring",
+                    "name_th": "หอมทอด",
+                    "description_en": "6 crispy fried onions ring, delicious with circle deep fried perfect snack and the side dish.",
+                    "description_th": "หอมทอดกรุบกรอบ อร่อยเต็มวง 6 ชิ้น ทานคู่กับอะไรก็ฟิน",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "10",
+                            "sizecode": "6PCS",
+                            "sizename_en": "6 PIECES",
+                            "sizename_th": "6 ชิ้น",
+                            "price": 89
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|CRF|CURLY FRIES",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "CRF",
+                    "name": "CURLY FRIES",
+                    "name_en": "Curly Fries",
+                    "name_th": "เคอร์ลี่ ฟรายส์",
+                    "description_en": "Curly Fries crispy curly in every bite perfect snack and the side dish.",
+                    "description_th": "เคอร์ลี่ ฟรายส์ เคี้ยวเพลิน กรอบทุกคำ ทานคู่กับอะไรก็อร่อย",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 89
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|CFSQ|CRISPY FRIED SQUID",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "CFSQ",
+                    "name": "CRISPY FRIED SQUID",
+                    "name_en": "Crispy Fried Squid",
+                    "name_th": "หมึกทอดกรอบ",
+                    "description_en": "Crispy fried squid, delicious, enjoyable to chew, dipped in rich tartar sauce.",
+                    "description_th": "หมึกทอดกรอบ ใหญ่เต็มคำ กรอบอร่อย เคี้ยวเพลิน ดิปกับทาร์ทาร์ซอสเข้มข้น",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 119
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|FFS|FRENCH FRIES",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "FFS",
+                    "name": "FRENCH FRIES",
+                    "name_en": "French Fries",
+                    "name_th": "เฟรนช์ฟรายส์",
+                    "description_en": "Crunchy fried French fries, crispy outside, soft inside. Fun to chew, enjoy the ultimate party",
+                    "description_th": "เฟรนช์ฟรายส์ทอดกรอบ กรอบนอกนุ่มใน เคี้ยวเพลิน เอนจอยปาร์ตี้สุดฟิน",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 79
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|FNORIB|FISH NORI BITE",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "FNORIB",
+                    "name": "FISH NORI BITE",
+                    "name_en": "Fish Nori Bite",
+                    "name_th": "ฟิชโนริ ไบท์",
+                    "description_en": "New delicious appetizer! Fish Nori Bite, with a cute fish shape. Crispy and crunchy, rich in flavor, with fish meat packed in every bite, topped with nori seaweed. Delicious in every bite",
+                    "description_th": "ของทานเล่นใหม่สุดอร่อย! ฟิชโนริ ไบท์ รูปทรงปลาสุดน่ารัก กรุบกรอบ เคี้ยวมัน เนื้อปลาอัดแน่นเต็มคำ โรยโนริสาหร่าย อร่อยทุกคำ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "10",
+                            "sizecode": "6PCS",
+                            "sizename_en": "6 PIECES",
+                            "sizename_th": "6 ชิ้น",
+                            "price": 99
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|CGST|CHEESY GARLIC STICK",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "CGST",
+                    "name": "CHEESY GARLIC STICK",
+                    "name_en": "Cheesy Garlic Stick",
+                    "name_th": "ชีสซี่การ์ลิคสติ๊ก",
+                    "description_en": "Pizza Hut's exclusive Cheesy Garlic Stick 4 Pcs, crispy bread, full of cheese and garlic scent. so yummy!",
+                    "description_th": "ขนมปังชีสซี่การ์ลิคสติ๊กสูตรพิเศษเฉพาะพิซซ่าฮัท ขนมปังกรอบ หอมชีสและกลิ่นกระเทียมเต็มคำ ทานคู่กับอะไรก็อร่อย",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "14",
+                            "sizecode": "4PCS",
+                            "sizename_en": "4 PIECES",
+                            "sizename_th": "4 ชิ้น",
+                            "price": 89
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|DPSRC|DIPPING SRIRACHA",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "DPSRC",
+                    "name": "DIPPING SRIRACHA",
+                    "name_en": "Dipping Sriracha",
+                    "name_th": "ซอสศรีราชา",
+                    "description_en": "Sweet and spicy, easy to enjoy.",
+                    "description_th": "เผ็ดหวาน ทานง่าย",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 10
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|DSTC|DIPPING SWEET THAI CHILI",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "DSTC",
+                    "name": "DIPPING SWEET THAI CHILI",
+                    "name_en": "Dipping Sweet Thai Chili",
+                    "name_th": "น้ำจิ้มลูกชิ้นหน้าโรงเรียน",
+                    "description_en": "A flavorful dipping sauce — mildly spicy, slightly sweet, and irresistibly tasty.",
+                    "description_th": "น้ำจิ้มรสเด็ด เผ็ดนิดๆ หวานหน่อยๆ อร่อยนัว",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 10
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|THS|THOUSAND SAUCE",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "THS",
+                    "name": "THOUSAND SAUCE",
+                    "name_en": "Thousand Sauce",
+                    "name_th": "น้ำสลัดเทาซันไอส์แลนด์",
+                    "description_en": "Thousand Sauce",
+                    "description_th": "น้ำสลัดเทาซันไอส์แลนด์",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 10
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|CSDS|CAESAR SALAD DRESSING",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "CSDS",
+                    "name": "CAESAR SALAD DRESSING",
+                    "name_en": "Caesar Salad Dressing",
+                    "name_th": "น้ำซีซ่าสลัด",
+                    "description_en": "Caesar Salad Dressing",
+                    "description_th": "น้ำซีซ่าสลัด",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 10
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|TTA|TATAR SAUCE",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "TTA",
+                    "name": "TATAR SAUCE",
+                    "name_en": "TATAR SAUCE",
+                    "name_th": "ทาร์ทาร์ซอส",
+                    "description_en": "TATAR SAUCE",
+                    "description_th": "ทาร์ทาร์ซอส",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 15
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|DPSS|undefined",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "DPSS",
+                    "name_en": "Salsa Lava Dipping",
+                    "name_th": "ดิปซัลซ่าลาวา",
+                    "description_en": "Chunky tomato, onion, fresh tomato, coriander and lime",
+                    "description_th": "มะเขือเทศเข้มข้น, หอมหัวใหญ่, มะเขือเทศสด, ผักชี และมะนาว",
+                    "status": "AVAILABLE",
+                    "subitems": []
+                },
+                {
+                    "id": "SIDE ORDER|DPCHE|undefined",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "DPCHE",
+                    "name_en": "Cheesy Lava Dipping",
+                    "name_th": "ดิปชีสลาวา",
+                    "description_en": "White sauce, cheese and milk",
+                    "description_th": "ไวท์ซอส, ชีส และนม",
+                    "status": "AVAILABLE",
+                    "subitems": []
+                },
+                {
+                    "id": "SIDE ORDER|SMDS|SPICY MAYO DRESSING",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "SMDS",
+                    "name": "SPICY MAYO DRESSING",
+                    "name_en": "Spicy Mayo Dressing",
+                    "name_th": "น้ำสลัดสไปซี่มาโย",
+                    "description_en": "Spicy Mayo Dressing",
+                    "description_th": "น้ำสลัดสไปซี่มาโย",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 20
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|DPSRC|DIPPING SRIRACHA",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "DPSRC",
+                    "name": "DIPPING SRIRACHA",
+                    "name_en": "Dipping Sriracha",
+                    "name_th": "ซอสศรีราชา",
+                    "description_en": "Sweet and spicy, easy to enjoy.\r\n",
+                    "description_th": "เผ็ดหวาน ทานง่าย",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 10
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|DSTC|DIPPING SWEET THAI CHILI",
+                    "category_group": "APPETIZERS",
+                    "product_type": "SIDE ORDER",
+                    "code": "DSTC",
+                    "name": "DIPPING SWEET THAI CHILI",
+                    "name_en": "Dipping Sweet Thai Chili",
+                    "name_th": "น้ำจิ้มลูกชิ้นหน้าโรงเรียน",
+                    "description_en": "A flavorful dipping sauce — mildly spicy, slightly sweet, and irresistibly tasty.",
+                    "description_th": "น้ำจิ้มรสเด็ด เผ็ดนิดๆ หวานหน่อยๆ อร่อยนัว",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "RICE",
+            "name_en": "Rice Bowl",
+            "name_th": "ข้าว",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "SIDE ORDER|GCKR|GARLIC CHICKEN RICE",
+                    "category_group": "RICE",
+                    "product_type": "SIDE ORDER",
+                    "code": "GCKR",
+                    "name": "GARLIC CHICKEN RICE",
+                    "name_en": "Garlic Chicken Rice",
+                    "name_th": "ข้าวผัดกระเทียมไก่ชิ้น",
+                    "description_en": "Infused with garlic aroma, mild and easy to enjoy - the chicken is incredibly tender and flavorful.",
+                    "description_th": "ผัดกระเทียมไก่ชิ้น หอมกลิ่นกระเทียม รสชาติทานง่าย ไก่นุ่มสุดนัว",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 79
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|KPCPK|KAPRAO CRISPY PORK RICE",
+                    "category_group": "RICE",
+                    "product_type": "SIDE ORDER",
+                    "code": "KPCPK",
+                    "name": "KAPRAO CRISPY PORK RICE",
+                    "name_en": "Kaprao crispy pork stir-fried Rice",
+                    "name_th": "ข้าวกะเพราหมูกรอบ",
+                    "description_en": "Large pieces of crispy pork stir-fried in authentic Thai holy basil - fragrant, bold, and delightfully easy to eat.",
+                    "description_th": "หมููกรอบชิ้นใหญ่ หอมกลิ่นกะเพราไทยแท้ จัดจ้านถูกใจ ทานง่ายถูกปาก",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 89
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|CKGCR|CHICKEN GREEN CURRY RICE",
+                    "category_group": "RICE",
+                    "product_type": "SIDE ORDER",
+                    "code": "CKGCR",
+                    "name": "CHICKEN GREEN CURRY RICE",
+                    "name_en": "Green Curry Chicken Rice",
+                    "name_th": "ข้าวเขียวหวานไก่",
+                    "description_en": "Tender chicken that melts in your mouth, simmered in a rich, intense green curry paste with creamy coconut milk — savory, comforting, and easy to enjoy",
+                    "description_th": "เนื้อไก่นุ่มละลาย เครื่องแกงเขียวหวานสุดเข้มข้น นัวกะทิ รสชาติถูกปากทานง่าย",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 99
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|BGCRR|BEEF GREEN CURRY RICE",
+                    "category_group": "RICE",
+                    "product_type": "SIDE ORDER",
+                    "code": "BGCRR",
+                    "name": "BEEF GREEN CURRY RICE",
+                    "name_en": "Green Curry Beef Shank Rice",
+                    "name_th": "ข้าวเขียวหวานเนื้อน่องลาย",
+                    "description_en": "Premium marble-cut beef shank, melt‑in‑your‑mouth tender, paired with rich and intense authentic Thai green curry",
+                    "description_th": "เนื้อน่องลายสุดพรีเมียม นุ่มละลายในปากพร้อมเครื่องแกงเขียวหวานสุดเข้มข้น สไตล์ไทยแท้",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "5",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 129
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "WINGS",
+            "name_en": "Wings",
+            "name_th": "เซ็ทไก่",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "SIDE ORDER|NOW|NEW ORLEANS WINGS",
+                    "category_group": "WINGS",
+                    "product_type": "SIDE ORDER",
+                    "code": "NOW",
+                    "name": "NEW ORLEANS WINGS",
+                    "name_en": "New Orleans",
+                    "name_th": "นิวออร์ลีนส์",
+                    "description_en": "Bestselling all-time, 6 pieces of New Orleans Chicken, Pizza Hut's signature. Fragrant, succulent, and incredibly juicy chicken.",
+                    "description_th": "ขายดีตลอดกาล ไก่นิวออร์ลีนส์ 6 ชิ้น signature ของ Pizza Hut หอม เนื้อไก่ชุ่มฉ่ำ juicy สุดๆ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "10",
+                            "sizecode": "6PCS",
+                            "sizename_en": "6 PIECES",
+                            "sizename_th": "6 ชิ้น",
+                            "price": 149
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|SPW|NEW ORLEANS SPICY WINGS",
+                    "category_group": "WINGS",
+                    "product_type": "SIDE ORDER",
+                    "code": "SPW",
+                    "name": "NEW ORLEANS SPICY WINGS",
+                    "name_en": "Spicy New Orleans",
+                    "name_th": "นิวออร์ลีนส์สไปซี่",
+                    "description_en": "New Orleans Chicken Spicy, 6 pieces, Pizza Hut's signature. Intensely flavorful, fragrant, and incredibly succulent chicken.",
+                    "description_th": "ไก่นิวออร์ลีนส์สไปซี่ 6 ชิ้น signature ของ Pizza Hut รสจัดจ้าน หอม เนื้อไก่สุดชุ่มฉ่ำ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "10",
+                            "sizecode": "6PCS",
+                            "sizename_en": "6 PIECES",
+                            "sizename_th": "6 ชิ้น",
+                            "price": 149
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|HCW|HUT CHON WINGS",
+                    "category_group": "WINGS",
+                    "product_type": "SIDE ORDER",
+                    "code": "HCW",
+                    "name": "HUT CHON WINGS",
+                    "name_en": "Hut Chon Wings",
+                    "name_th": "ฮัทไก่ทอดเกาหลีซอสการ์ลิค",
+                    "description_en": "Korean Fried Chicken with Garlic Sauce, 5 pieces. Fried chicken coated with juicy sauce. Fragrant smell of garlic and spices Special recipe from Pizza Hut",
+                    "description_th": "ฮัทไก่ทอดเกาหลีซอสการ์ลิค 5 ชิ้น ไก่ทอดเคลือบซอสสุดฉ่ำ หอมกลิ่นกระเทียมเครื่องเทศ สูตรเฉพาะจากพิซซ่าฮัท",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "19",
+                            "sizecode": "5PCS",
+                            "sizename_en": "5 PIECES",
+                            "sizename_th": "5 ชิ้น",
+                            "price": 159
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|HZW|HUT CHIC ZABB",
+                    "category_group": "WINGS",
+                    "product_type": "SIDE ORDER",
+                    "code": "HZW",
+                    "name": "HUT CHIC ZABB",
+                    "name_en": "Hut Chic Zabb",
+                    "name_th": "ฮัทปีกไก่แซ่บบ",
+                    "description_en": "Hut Chic Zabb Fried Chicken, 6 pieces, super crispy fried chicken Mixed with spiciness with spicy spices. Special recipe from Pizza Hut",
+                    "description_th": "ฮัทปีกไก่แซ่บบ 6 ชิ้น ไก่ทอดสุดกรอบ คลุกเคล้าความแซ่บด้วยเครื่องเทศรสจัดจ้าน สูตรเฉพาะจากพิซซ่าฮัท",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "10",
+                            "sizecode": "6PCS",
+                            "sizename_en": "6 PIECES",
+                            "sizename_th": "6 ชิ้น",
+                            "price": 159
+                        }
+                    ]
+                },
+                {
+                    "id": "SIDE ORDER|HORFW|HUT ORIGINAL FRIED WINGS",
+                    "category_group": "WINGS",
+                    "product_type": "SIDE ORDER",
+                    "code": "HORFW",
+                    "name": "HUT ORIGINAL FRIED WINGS",
+                    "name_en": "Hut Original Fried Wings",
+                    "name_th": "ฮัทปีกไก่ทอด (สูตรต้นตำรับ)",
+                    "description_en": "Crispy fried chicken, not coated with sauce, perfectly crispy and juicy. Eat with tomato sauce.",
+                    "description_th": "ฮัทปีกไก่ทอด ไม่เคลือบซอส กรอบและ Juicy เน้นๆ ทอดจนหอมกรอบ ทานคู่กับซอสมะเขือเทศ อร่อยถึงใจ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "10",
+                            "sizecode": "6PCS",
+                            "sizename_en": "6 PIECES",
+                            "sizename_th": "6 ชิ้น",
+                            "price": 159
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "DRINK",
+            "name_en": "Drink",
+            "name_th": "เครื่องดื่ม",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "DRINK|MNR|MINERE",
+                    "category_group": "DRINK",
+                    "product_type": "DRINK",
+                    "code": "MNR",
+                    "name": "MINERE",
+                    "name_en": "Minere Water",
+                    "name_th": "น้ำเปล่ามิเนเร่",
+                    "description_en": "Size 500 ML.",
+                    "description_th": "ขนาด 500 มิลลิลิตร",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "7",
+                            "sizecode": "BTL",
+                            "sizename_en": "BOTTLE",
+                            "sizename_th": "ขวด",
+                            "price": 20
+                        }
+                    ]
+                },
+                {
+                    "id": "DRINK|CRT|CRYSTAL 600 ML",
+                    "category_group": "DRINK",
+                    "product_type": "DRINK",
+                    "code": "CRT",
+                    "name": "CRYSTAL 600 ML",
+                    "name_en": "Crystal Water",
+                    "name_th": "น้ำเปล่าคริสตัล",
+                    "description_en": "Size 600 ML.",
+                    "description_th": "ขนาด 600 มิลลิลิตร",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "7",
+                            "sizecode": "BTL",
+                            "sizename_en": "BOTTLE",
+                            "sizename_th": "ขวด",
+                            "price": 20
+                        }
+                    ]
+                },
+                {
+                    "id": "DRINK|PEP16OZ|PEPSI 16 OZ",
+                    "category_group": "DRINK",
+                    "product_type": "DRINK",
+                    "code": "PEP16OZ",
+                    "name": "PEPSI 16 OZ",
+                    "name_en": "Pepsi 16oz",
+                    "name_th": "เป๊ปซี่ 16 ออนซ์",
+                    "description_en": "Pepsi 16oz 1 Cup",
+                    "description_th": "เป๊ปซี่ 16 ออนซ์ 1 แก้ว",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "6",
+                            "sizecode": "GLS",
+                            "sizename_en": "GLASS",
+                            "sizename_th": "แก้ว",
+                            "price": 39
+                        }
+                    ]
+                },
+                {
+                    "id": "DRINK|PZS|PEPSI ZERO SUGAR 16 OZ",
+                    "category_group": "DRINK",
+                    "product_type": "DRINK",
+                    "code": "PZS",
+                    "name": "PEPSI ZERO SUGAR 16 OZ",
+                    "name_en": "Pepsi Zero Sugar 16oz",
+                    "name_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์",
+                    "description_en": "Pepsi Zero Sugar 16oz 1 Cup",
+                    "description_th": "เป๊ปซี่ ไม่มีน้ำตาล 16 ออนซ์ 1 แก้ว",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "6",
+                            "sizecode": "GLS",
+                            "sizename_en": "GLASS",
+                            "sizename_th": "แก้ว",
+                            "price": 39
+                        }
+                    ]
+                },
+                {
+                    "id": "DRINK|LMT|LEMON TEA 16 OZ",
+                    "category_group": "DRINK",
+                    "product_type": "DRINK",
+                    "code": "LMT",
+                    "name": "LEMON TEA 16 OZ",
+                    "name_en": "Lemon Iced Tea 16oz",
+                    "name_th": "ชามะนาว 16 ออนซ์",
+                    "description_en": "Lemon Iced Tea 16oz 1 cup",
+                    "description_th": "ชามะนาว 16 ออนซ์ 1 แก้ว",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "6",
+                            "sizecode": "GLS",
+                            "sizename_en": "GLASS",
+                            "sizename_th": "แก้ว",
+                            "price": 39
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "DESSERT",
+            "name_en": "Dessert",
+            "name_th": "ของหวาน",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "DESSERT|HCK|HERSHEYS COOKIE",
+                    "category_group": "DESSERT",
+                    "product_type": "DESSERT",
+                    "code": "HCK",
+                    "name": "HERSHEYS COOKIE",
+                    "name_en": "Hershey’s Chocolate Chip Cookie",
+                    "name_th": "เฮอร์ชี่ส์ ช็อกโกแลต ชิพ คุกกี้",
+                    "description_en": "Another signature menu exclusive to Pizza Hut, Hershey's Chocolate Chip Cookie. Full of chocolate chips, the more immersed in milk, the more delicious.",
+                    "description_th": "อีกหนึ่งเมนู signature เฉพาะ Pizza Hut เฮอร์ชี่ส์ ช็อกโกแลต ชิพ คุกกี้ ทานได้ไม่เบื่อ ช็อกโกแลตชิพเต็มคำ ยิ่งจุ่มนมยิ่งอร่อย",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "18",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 159
+                        }
+                    ]
+                },
+                {
+                    "id": "DESSERT|APCB|APPLE CRUMBLE",
+                    "category_group": "DESSERT",
+                    "product_type": "DESSERT",
+                    "code": "APCB",
+                    "name": "APPLE CRUMBLE",
+                    "name_en": "Apple Crumble",
+                    "name_th": "แอปเปิลครัมเบิล",
+                    "description_en": "6-inch Pretza topped with apple filling, cream cheese, and cream cheese crumble, finished with salted caramel sauce and diced almonds on the crust.",
+                    "description_th": "เพรทซ่าขนาด 6 นิ้ว หน้าแอปเปิล ครัมเบิล แอปเปิลกับครีมชีส และครัมเบิลครีมชีสสุดนัว คู่กับซอลท์เท็ดคาราเมล ราดบนขอบเพรทซ่า พร้อมโรยอัลมอนด์กรุบกรอบ",
+                    "status": "AVAILABLE",
+                    "subitems": [
+                        {
+                            "sizeid": "18",
+                            "sizecode": "REG",
+                            "sizename_en": "REGULAR",
+                            "sizename_th": "ขนาดปกติ",
+                            "price": 169
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

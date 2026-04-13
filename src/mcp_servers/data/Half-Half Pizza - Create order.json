@@ -1,0 +1,96 @@
+{
+  "ApiKey": "key",
+  "Cutlery": "N",
+  "OrderInstruction": "",
+  "StoreCode": "5438",
+  "Quadrant": "810",
+  "QuadrantId": "109830",
+  "CustomerInformation": {
+    "UserID": "WEBSITE",
+    "ExternalCustomerID": "GUEST-0800811114",
+    "ContactNumber": "0800811114",
+    "ReceipientContactNumber": "0800811114",
+    "Fullname": "Fluke",
+    "ExternalAddressID": 0,
+    "CompanyName": "",
+    "EmailAddress": "0800811114@gmail.com",
+    "DOB": "",
+    "PDPAConsent": "Y"
+  },
+  "MembershipInformation": {
+    "MembershipNo": "",
+    "AccumulatePoint": "",
+    "ExpiryDate": "",
+    "PurchaseFrequency": []
+  },
+  "OrderInformation": {
+    "Code": "T54381769136640",
+    "OrderDate": "2026-01-23",
+    "OrderTime": "09:50:40 AM",
+    "OrderType": "PICKUP",
+    "OrderNowTimed": "NOW",
+    "Channel": "PHWEB",
+    "Sub_Channel": "GUEST",
+    "PromiseTime": "00:30:00.000"
+  },
+  "DeliveryInformation": {
+    "DeliveryDate": "2026-01-23",
+    "DeliveryTime": "10:21:00 AM",
+    "Address": {
+      "AddressNo": "",
+      "AddressUnit": "",
+      "AddressLandmark": "",
+      "CompanyName": "",
+      "AddressStreet": "28/36 - 28/37 Meunhan Road, Tha Pi Liang Sub District, Muang Suphanburi District, Suphanburi Province 72000",
+      "AddressCity": "Mueang Suphan Buri",
+      "AddressPostalcode": "72000",
+      "AddressCoordinates": {
+        "Lat": "14.46722200",
+        "Lng": "100.12198800"
+      },
+      "AddressState": "Suphan Buri",
+      "AddressPODS": "",
+      "AddressRemarks": ""
+    },
+    "DeliveryFees": "0.0000",
+    "DeliveryTax": 0
+  },
+  "products": [
+    {
+      "Seq": 1,
+      "ItemType": "PIZZA",
+      "ItemCode": "HHP",
+      "SizeCode": "M",
+      "VariantCode": "PAN",
+      "ItemPLU": "HWN|HCE",
+      "UnitPrice": "349.0000",
+      "Quantity": "1",
+      "items": [],
+      "upgrades": [],
+      "DiscountCode": "",
+      "PromotionCode": "",
+      "SurchargePrice": 0,
+      "TotalDiscount": 0,
+      "TotalPrice": 349,
+      "ReceiptDesc": "",
+      "TimeStamp": "2026-01-23 09:50:40"
+    }
+  ],
+  "Price": {
+    "SubTotal": "349.0000",
+    "TotalDiscount": 0,
+    "Tax1": 0,
+    "Tax2": 0,
+    "Tax3": 0,
+    "Tax4": 0,
+    "GrandTotal": "349.0000",
+    "PaymentType": "PROMPTPAY",
+    "PaymentStatus": "PAID",
+    "GrandTotalBefRound": "349.0000",
+    "Rounding": 0,
+    "MembershipNo": "",
+    "PaymentDue": 0
+  },
+  "Vouchers": [],
+  "Discount": []
+}

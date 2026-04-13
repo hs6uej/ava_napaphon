@@ -1,0 +1,163 @@
+{
+    "FreeGiftList": [
+        {
+            "product_type": "PROMOTION",
+            "code": "FRDELIV",
+            "name_en": "Free Delivery",
+            "name_th": "ฟรีค่าจัดส่ง",
+            "promotion_includes": "ALL",
+            "min_amount": 500,
+            "quotas_total": null,
+            "quotas_total_per_user": null,
+            "quotas_total_per_bill": 1,
+            "start_date": "2026-01-01 00:00:00",
+            "end_date": "2029-12-31 23:00:00",
+            "serviceHours": {
+                "mon": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                "tue": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                "wed": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                "thu": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                "fri": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                "sat": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                },
+                "sun": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:00"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "product_type": "PROMOTION",
+            "code": "M300FP",
+            "name_en": "Free Pepsi 16oz 2 cup",
+            "name_th": "ฟรีเป๊ปซี่ 16 ออนซ์ 2 แก้ว",
+            "promotion_includes": [
+                "COMBO|PZCB|PRETZA COMBO",
+                "MEALSET|MLA|MY MELTS A"
+            ],
+            "min_amount": 300,
+            "quotas_total": 1000,
+            "quotas_total_per_user": null,
+            "quotas_total_per_bill": 1,
+            "start_date": "2026-01-01 00:00:00",
+            "end_date": "2029-12-31 23:00:00",
+            "serviceHours": {
+                "mon": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "00:00",
+                            "end_time": "23:59"
+                        }
+                    ]
+                },
+                "tue": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "00:00",
+                            "end_time": "23:59"
+                        }
+                    ]
+                },
+                "wed": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "00:00",
+                            "end_time": "23:59"
+                        }
+                    ]
+                },
+                "thu": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "00:00",
+                            "end_time": "23:59"
+                        }
+                    ]
+                },
+                "fri": {
+                    "status": "OPEN",
+                    "sellingTimes": [
+                        {
+                            "start_time": "00:00",
+                            "end_time": "23:59"
+                        }
+                    ]
+                },
+                "sat": {
+                    "status": "CLOSE",
+                    "sellingTimes": [
+                        {
+                            "start_time": "00:00",
+                            "end_time": "23:59"
+                        }
+                    ]
+                },
+                "sun": {
+                    "status": "CLOSE",
+                    "sellingTimes": [
+                        {
+                            "start_time": "00:00",
+                            "end_time": "23:59"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

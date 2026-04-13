@@ -1,0 +1,168 @@
+{
+    "group": "UPSELL",
+    "categories": [
+        {
+            "id": "UPSELL1",
+            "name_en": "Upsell",
+            "name_th": "ส่งเสริมการขาย",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "MEALSET|1F1BEV|1F1 BEVERAGE",
+                    "product_type": "MEALSET",
+                    "code": "1F1BEV",
+                    "name": "1F1 BEVERAGE",
+                    "name_en": "Buy Beverage 1 Free 1",
+                    "name_th": "ซื้อเครื่องดื่ม 1 แถม 1",
+                    "description_en": "",
+                    "description_th": "",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 49,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|DRINK|1F1BEV",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|PEP16OZ|PEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PEP16OZ",
+                                    "name": "PEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์",
+                                    "description_en": "Pepsi 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|PZS|PEPSI ZERO SUGAR 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PZS",
+                                    "name": "PEPSI ZERO SUGAR 16 OZ",
+                                    "name_en": "Pepsi Zero Sugar 16oz",
+                                    "name_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์",
+                                    "description_en": "Pepsi Zero Sugar 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ ไม่มีน้ำตาล 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|LMT|LEMON TEA 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "LMT",
+                                    "name": "LEMON TEA 16 OZ",
+                                    "name_en": "Lemon Iced Tea 16oz",
+                                    "name_th": "ชามะนาว 16 ออนซ์",
+                                    "description_en": "Lemon Iced Tea 16oz 1 cup",
+                                    "description_th": "ชามะนาว 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|DRINK|1F1BEV",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|PEP16OZ|PEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PEP16OZ",
+                                    "name": "PEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์",
+                                    "description_en": "Pepsi 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|PZS|PEPSI ZERO SUGAR 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PZS",
+                                    "name": "PEPSI ZERO SUGAR 16 OZ",
+                                    "name_en": "Pepsi Zero Sugar 16oz",
+                                    "name_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์",
+                                    "description_en": "Pepsi Zero Sugar 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ ไม่มีน้ำตาล 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|LMT|LEMON TEA 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "LMT",
+                                    "name": "LEMON TEA 16 OZ",
+                                    "name_en": "Lemon Iced Tea 16oz",
+                                    "name_th": "ชามะนาว 16 ออนซ์",
+                                    "description_en": "Lemon Iced Tea 16oz 1 cup",
+                                    "description_th": "ชามะนาว 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

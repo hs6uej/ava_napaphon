@@ -1,0 +1,2350 @@
+{
+    "group": "PROMOTION",
+    "categories": [
+        {
+            "id": "PROMOTION",
+            "name_en": "Promotion",
+            "name_th": "โปรโมชัน",
+            "status": "AVAILABLE",
+            "selling_time": "away_time",
+            "items": [
+                {
+                    "id": "PROMOTION|F1FNB|FS 1F1 FISH NORI BITE",
+                    "product_type": "PROMOTION",
+                    "code": "F1FNB",
+                    "name": "FS 1F1 FISH NORI BITE",
+                    "name_en": "1 Free 1 Fish Nori Bite",
+                    "name_th": "1 แถม 1 ฟิชโนริ ไบท์",
+                    "description_en": "New delicious appetizer! Fish Nori Bite, with a cute fish shape. Crispy and crunchy, rich in flavor, with fish meat packed in every bite",
+                    "description_th": "ของทานเล่นใหม่สุดอร่อย! ฟิชโนริ ไบท์ รูปทรงปลาสุดน่ารัก กรุบกรอบ เคี้ยวมัน เนื้อปลาอัดแน่นเต็มคำ โรยโนริสาหร่าย อร่อยทุกคำ",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 99,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|SIDE ORDER|F1FNB",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|FNORIB|FISH NORI BITE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "FNORIB",
+                                    "name": "FISH NORI BITE",
+                                    "name_en": "Fish Nori Bite",
+                                    "name_th": "ฟิชโนริ ไบท์",
+                                    "description_en": "New delicious appetizer! Fish Nori Bite, with a cute fish shape. Crispy and crunchy, rich in flavor, with fish meat packed in every bite, topped with nori seaweed. Delicious in every bite",
+                                    "description_th": "ของทานเล่นใหม่สุดอร่อย! ฟิชโนริ ไบท์ รูปทรงปลาสุดน่ารัก กรุบกรอบ เคี้ยวมัน เนื้อปลาอัดแน่นเต็มคำ โรยโนริสาหร่าย อร่อยทุกคำ",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|SIDE ORDER|F1FNB",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|FNORIB|FISH NORI BITE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "FNORIB",
+                                    "name": "FISH NORI BITE",
+                                    "name_en": "Fish Nori Bite",
+                                    "name_th": "ฟิชโนริ ไบท์",
+                                    "description_en": "New delicious appetizer! Fish Nori Bite, with a cute fish shape. Crispy and crunchy, rich in flavor, with fish meat packed in every bite, topped with nori seaweed. Delicious in every bite",
+                                    "description_th": "ของทานเล่นใหม่สุดอร่อย! ฟิชโนริ ไบท์ รูปทรงปลาสุดน่ารัก กรุบกรอบ เคี้ยวมัน เนื้อปลาอัดแน่นเต็มคำ โรยโนริสาหร่าย อร่อยทุกคำ",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|FS1F1BM|FS 1F1 BAKE MAC",
+                    "product_type": "PROMOTION",
+                    "code": "FS1F1BM",
+                    "name": "FS 1F1 BAKE MAC",
+                    "name_en": "Buy 1 get 1 Baked Macaroni",
+                    "name_th": "ซื้อ 1 แถม 1 มักกะโรนีอบชีส",
+                    "description_en": "Buy 1 get 1 free Baked Macaroni delicious with Baked Macaroni in White Cream Sauce, Baked Macaroni Cheesy Shrimp and Baked Macaroni Italian Chicken super delicious cheese baked menu",
+                    "description_th": "ซื้อ 1 แถม 1 มักกะโรนีอบชีส อร่อยกับมักกะโรนีอบชีสแฮมเห็ดไวท์ครีมซอส, มักกะโรนกุ้งอบชีส และมักกะโรนีชิกเก้นอบชีส เมนูอบชีสสุดอร่อย",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "BEF1",
+                    "price": 0,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|PASTA|FS1F1BM",
+                            "product_type": "PASTA",
+                            "name_en": "Choose Pasta",
+                            "name_th": "เลือกพาสต้า",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "PASTA|MIC|BAKED MACARONI ITALIAN CHICKEN",
+                                    "product_type": "PASTA",
+                                    "code": "MIC",
+                                    "name": "BAKED MACARONI ITALIAN CHICKEN",
+                                    "name_en": "Baked Macaroni Italian Chicken",
+                                    "name_th": "มักกะโรนีชิกเก้นอบชีส",
+                                    "description_en": "Hot baked macaroni, eaten with chicken, full with cheesy so delicious.",
+                                    "description_th": "มักกะโรนีอบร้อนๆ ทานคู่กับชิกเก้น หอมชีสเยิ้มยืด อร่อยจนวางไม่ลง",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "17",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 159
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PASTA|MWC|BAKED MACARONI WHITE CREAM SAUCE",
+                                    "product_type": "PASTA",
+                                    "code": "MWC",
+                                    "name": "BAKED MACARONI WHITE CREAM SAUCE",
+                                    "name_en": "Baked Macaroni in White Cream Sauce",
+                                    "name_th": "มักกะโรนีอบชีสแฮมเห็ดไวท์ครีมซอส",
+                                    "description_en": "Makaroni paired with intensely rich white cream sauce, topped with fully-loaded cheese, incredibly creamy. ham and mushrooms go well together.",
+                                    "description_th": "มักกะโรนีทานคู่กับ ซอสไวท์ครีมสุดเข้มข้น ให้ชีสแบบจัดเต็ม นัวสุดๆ ครีมมี ทานคู่กับแฮมและเห็ด เข้ากันอย่างดี",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "17",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 159
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PASTA|MCP|BAKED MACARONI CHEESY SHRIMP",
+                                    "product_type": "PASTA",
+                                    "code": "MCP",
+                                    "name": "BAKED MACARONI CHEESY SHRIMP",
+                                    "name_en": "Baked Macaroni Cheesy Shrimp",
+                                    "name_th": "มักกะโรนีกุ้งอบชีส",
+                                    "description_en": "The paradise for shrimp lovers, eaten with a cheesy incredibly delicious. It's the favorite macaroni dish.",
+                                    "description_th": "สวรรค์ของคนรักกุ้ง ทานคู่กับชีสเยิ้มๆ อร่อยสุดนัว เป็นมักกะโรนีจานโปรด",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "17",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 159
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|PASTA|FS1F1BM",
+                            "product_type": "PASTA",
+                            "name_en": "Choose Pasta",
+                            "name_th": "เลือกพาสต้า",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "PASTA|MIC|BAKED MACARONI ITALIAN CHICKEN",
+                                    "product_type": "PASTA",
+                                    "code": "MIC",
+                                    "name": "BAKED MACARONI ITALIAN CHICKEN",
+                                    "name_en": "Baked Macaroni Italian Chicken",
+                                    "name_th": "มักกะโรนีชิกเก้นอบชีส",
+                                    "description_en": "Hot baked macaroni, eaten with chicken, full with cheesy so delicious.",
+                                    "description_th": "มักกะโรนีอบร้อนๆ ทานคู่กับชิกเก้น หอมชีสเยิ้มยืด อร่อยจนวางไม่ลง",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "17",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 159
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PASTA|MWC|BAKED MACARONI WHITE CREAM SAUCE",
+                                    "product_type": "PASTA",
+                                    "code": "MWC",
+                                    "name": "BAKED MACARONI WHITE CREAM SAUCE",
+                                    "name_en": "Baked Macaroni in White Cream Sauce",
+                                    "name_th": "มักกะโรนีอบชีสแฮมเห็ดไวท์ครีมซอส",
+                                    "description_en": "Makaroni paired with intensely rich white cream sauce, topped with fully-loaded cheese, incredibly creamy. ham and mushrooms go well together.",
+                                    "description_th": "มักกะโรนีทานคู่กับ ซอสไวท์ครีมสุดเข้มข้น ให้ชีสแบบจัดเต็ม นัวสุดๆ ครีมมี ทานคู่กับแฮมและเห็ด เข้ากันอย่างดี",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "17",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 159
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PASTA|MCP|BAKED MACARONI CHEESY SHRIMP",
+                                    "product_type": "PASTA",
+                                    "code": "MCP",
+                                    "name": "BAKED MACARONI CHEESY SHRIMP",
+                                    "name_en": "Baked Macaroni Cheesy Shrimp",
+                                    "name_th": "มักกะโรนีกุ้งอบชีส",
+                                    "description_en": "The paradise for shrimp lovers, eaten with a cheesy incredibly delicious. It's the favorite macaroni dish.",
+                                    "description_th": "สวรรค์ของคนรักกุ้ง ทานคู่กับชีสเยิ้มๆ อร่อยสุดนัว เป็นมักกะโรนีจานโปรด",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "17",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 159
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|RISA|RICE SET A",
+                    "product_type": "PROMOTION",
+                    "code": "RISA",
+                    "name": "RICE SET A",
+                    "name_en": "Rice Bowl A",
+                    "name_th": "ชุดข้าว A",
+                    "description_en": "Fully satisfying ,one rice dish and one glass of Pepsi.",
+                    "description_th": "อร่อยจัดเต็ม เมนูข้าว 1 ที่ , น้ำเป็ปซี่ 1 แก้ว",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 99,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|SIDE ORDER|RISA",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|KPPR|KAPRAO PORK RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "KPPR",
+                                    "name": "KAPRAO PORK RICE",
+                                    "name_en": "KAPRAO PORK RICE",
+                                    "name_th": "KAPRAO PORK RICE",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|GCKR|GARLIC CHICKEN RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "GCKR",
+                                    "name": "GARLIC CHICKEN RICE",
+                                    "name_en": "Garlic Chicken Rice",
+                                    "name_th": "ข้าวผัดกระเทียมไก่ชิ้น",
+                                    "description_en": "Infused with garlic aroma, mild and easy to enjoy - the chicken is incredibly tender and flavorful.",
+                                    "description_th": "ผัดกระเทียมไก่ชิ้น หอมกลิ่นกระเทียม รสชาติทานง่าย ไก่นุ่มสุดนัว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|CKGCR|CHICKEN GREEN CURRY RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "CKGCR",
+                                    "name": "CHICKEN GREEN CURRY RICE",
+                                    "name_en": "Green Curry Chicken Rice",
+                                    "name_th": "ข้าวเขียวหวานไก่",
+                                    "description_en": "Tender chicken that melts in your mouth, simmered in a rich, intense green curry paste with creamy coconut milk — savory, comforting, and easy to enjoy",
+                                    "description_th": "เนื้อไก่นุ่มละลาย เครื่องแกงเขียวหวานสุดเข้มข้น นัวกะทิ รสชาติถูกปากทานง่าย",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|KPMXPR|KAPRAO MIXED PORK RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "KPMXPR",
+                                    "name": "KAPRAO MIXED PORK RICE",
+                                    "name_en": "KAPRAO MIXED PORK RICE",
+                                    "name_th": "KAPRAO MIXED PORK RICE",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|BGCRR|BEEF GREEN CURRY RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "BGCRR",
+                                    "name": "BEEF GREEN CURRY RICE",
+                                    "name_en": "Green Curry Beef Shank Rice",
+                                    "name_th": "ข้าวเขียวหวานเนื้อน่องลาย",
+                                    "description_en": "Premium marble-cut beef shank, melt‑in‑your‑mouth tender, paired with rich and intense authentic Thai green curry",
+                                    "description_th": "เนื้อน่องลายสุดพรีเมียม นุ่มละลายในปากพร้อมเครื่องแกงเขียวหวานสุดเข้มข้น สไตล์ไทยแท้",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 50
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|KPCPK|KAPRAO CRISPY PORK RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "KPCPK",
+                                    "name": "KAPRAO CRISPY PORK RICE",
+                                    "name_en": "Kaprao crispy pork stir-fried Rice",
+                                    "name_th": "ข้าวกะเพราหมูกรอบ",
+                                    "description_en": "Large pieces of crispy pork stir-fried in authentic Thai holy basil - fragrant, bold, and delightfully easy to eat.",
+                                    "description_th": "หมููกรอบชิ้นใหญ่ หอมกลิ่นกะเพราไทยแท้ จัดจ้านถูกใจ ทานง่ายถูกปาก",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 10
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|DRINK|RISA",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|PEP16OZ|PEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PEP16OZ",
+                                    "name": "PEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์",
+                                    "description_en": "Pepsi 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|PZS|PEPSI ZERO SUGAR 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PZS",
+                                    "name": "PEPSI ZERO SUGAR 16 OZ",
+                                    "name_en": "Pepsi Zero Sugar 16oz",
+                                    "name_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์",
+                                    "description_en": "Pepsi Zero Sugar 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ ไม่มีน้ำตาล 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|RISB|RICE SET B",
+                    "product_type": "PROMOTION",
+                    "code": "RISB",
+                    "name": "RICE SET B",
+                    "name_en": "Rice Bowl B",
+                    "name_th": "ชุดข้าว B",
+                    "description_en": "An indulgent feast with one rice dish, one order of french fries, and one glass of Pepsi",
+                    "description_th": "อร่อยจัดหนักกับเมนูข้าว 1 ที่ , เฟรนฟรายซ์ 1 ที่ , เป๊ปซี่ 1 แก้ว",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 139,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|SIDE ORDER|RISB",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|KPPR|KAPRAO PORK RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "KPPR",
+                                    "name": "KAPRAO PORK RICE",
+                                    "name_en": "KAPRAO PORK RICE",
+                                    "name_th": "KAPRAO PORK RICE",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|GCKR|GARLIC CHICKEN RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "GCKR",
+                                    "name": "GARLIC CHICKEN RICE",
+                                    "name_en": "Garlic Chicken Rice",
+                                    "name_th": "ข้าวผัดกระเทียมไก่ชิ้น",
+                                    "description_en": "Infused with garlic aroma, mild and easy to enjoy - the chicken is incredibly tender and flavorful.",
+                                    "description_th": "ผัดกระเทียมไก่ชิ้น หอมกลิ่นกระเทียม รสชาติทานง่าย ไก่นุ่มสุดนัว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|CKGCR|CHICKEN GREEN CURRY RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "CKGCR",
+                                    "name": "CHICKEN GREEN CURRY RICE",
+                                    "name_en": "Green Curry Chicken Rice",
+                                    "name_th": "ข้าวเขียวหวานไก่",
+                                    "description_en": "Tender chicken that melts in your mouth, simmered in a rich, intense green curry paste with creamy coconut milk — savory, comforting, and easy to enjoy",
+                                    "description_th": "เนื้อไก่นุ่มละลาย เครื่องแกงเขียวหวานสุดเข้มข้น นัวกะทิ รสชาติถูกปากทานง่าย",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|KPMXPR|KAPRAO MIXED PORK RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "KPMXPR",
+                                    "name": "KAPRAO MIXED PORK RICE",
+                                    "name_en": "KAPRAO MIXED PORK RICE",
+                                    "name_th": "KAPRAO MIXED PORK RICE",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|BGCRR|BEEF GREEN CURRY RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "BGCRR",
+                                    "name": "BEEF GREEN CURRY RICE",
+                                    "name_en": "Green Curry Beef Shank Rice",
+                                    "name_th": "ข้าวเขียวหวานเนื้อน่องลาย",
+                                    "description_en": "Premium marble-cut beef shank, melt‑in‑your‑mouth tender, paired with rich and intense authentic Thai green curry",
+                                    "description_th": "เนื้อน่องลายสุดพรีเมียม นุ่มละลายในปากพร้อมเครื่องแกงเขียวหวานสุดเข้มข้น สไตล์ไทยแท้",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 50
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|KPCPK|KAPRAO CRISPY PORK RICE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "KPCPK",
+                                    "name": "KAPRAO CRISPY PORK RICE",
+                                    "name_en": "Kaprao crispy pork stir-fried Rice",
+                                    "name_th": "ข้าวกะเพราหมูกรอบ",
+                                    "description_en": "Large pieces of crispy pork stir-fried in authentic Thai holy basil - fragrant, bold, and delightfully easy to eat.",
+                                    "description_th": "หมููกรอบชิ้นใหญ่ หอมกลิ่นกะเพราไทยแท้ จัดจ้านถูกใจ ทานง่ายถูกปาก",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "5",
+                                            "sizecode": "REG",
+                                            "sizename_en": "Regular",
+                                            "sizename_th": "ขนาดปกติ",
+                                            "price": 10
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|SIDE ORDER|RISB",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|FFS|FRENCH FRIES",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "FFS",
+                                    "name": "FRENCH FRIES",
+                                    "name_en": "French Fries",
+                                    "name_th": "เฟรนช์ฟรายส์",
+                                    "description_en": "Crunchy fried French fries, crispy outside, soft inside. Fun to chew, enjoy the ultimate party",
+                                    "description_th": "เฟรนช์ฟรายส์ทอดกรอบ กรอบนอกนุ่มใน เคี้ยวเพลิน เอนจอยปาร์ตี้สุดฟิน",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "53",
+                                            "sizecode": "100G",
+                                            "sizename_en": "",
+                                            "sizename_th": "",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z3|DRINK|RISB",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 3,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|PEP16OZ|PEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PEP16OZ",
+                                    "name": "PEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์",
+                                    "description_en": "Pepsi 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|PZS|PEPSI ZERO SUGAR 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PZS",
+                                    "name": "PEPSI ZERO SUGAR 16 OZ",
+                                    "name_en": "Pepsi Zero Sugar 16oz",
+                                    "name_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์",
+                                    "description_en": "Pepsi Zero Sugar 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ ไม่มีน้ำตาล 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "MEALSET|1F1BEV|1F1 BEVERAGE",
+                    "product_type": "MEALSET",
+                    "code": "1F1BEV",
+                    "name": "1F1 BEVERAGE",
+                    "name_en": "Hut 1 Free 1 Beverage 16oz.",
+                    "name_th": "ฮัทซื้อ 1 แถม 1 เครื่องดื่ม 16 ออนซ์",
+                    "description_en": "Buy Pepsi, Pepsi Zero Sugar and Lemon Iced Tea 16oz. Get free 1 cup.",
+                    "description_th": "เมื่อซื้อเป๊ปซี่, เป๊ปซี่ไม่มีน้ำตาล และชามะนาว 16 ออนซ์ 1 แก้ว แถมฟรี อีก 1 แก้ว",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 49,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|DRINK|1F1BEV",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|PEP16OZ|PEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PEP16OZ",
+                                    "name": "PEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์",
+                                    "description_en": "Pepsi 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|PZS|PEPSI ZERO SUGAR 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PZS",
+                                    "name": "PEPSI ZERO SUGAR 16 OZ",
+                                    "name_en": "Pepsi Zero Sugar 16oz",
+                                    "name_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์",
+                                    "description_en": "Pepsi Zero Sugar 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ ไม่มีน้ำตาล 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|LMT|LEMON TEA 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "LMT",
+                                    "name": "LEMON TEA 16 OZ",
+                                    "name_en": "Lemon Iced Tea 16oz",
+                                    "name_th": "ชามะนาว 16 ออนซ์",
+                                    "description_en": "Lemon Iced Tea 16oz 1 cup",
+                                    "description_th": "ชามะนาว 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|DRINK|1F1BEV",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|PEP16OZ|PEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PEP16OZ",
+                                    "name": "PEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์",
+                                    "description_en": "Pepsi 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|PZS|PEPSI ZERO SUGAR 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PZS",
+                                    "name": "PEPSI ZERO SUGAR 16 OZ",
+                                    "name_en": "Pepsi Zero Sugar 16oz",
+                                    "name_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์",
+                                    "description_en": "Pepsi Zero Sugar 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ ไม่มีน้ำตาล 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|LMT|LEMON TEA 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "LMT",
+                                    "name": "LEMON TEA 16 OZ",
+                                    "name_en": "Lemon Iced Tea 16oz",
+                                    "name_th": "ชามะนาว 16 ออนซ์",
+                                    "description_en": "Lemon Iced Tea 16oz 1 cup",
+                                    "description_th": "ชามะนาว 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|AGBNLV|A GET B NPL LV",
+                    "product_type": "PROMOTION",
+                    "code": "AGBNLV",
+                    "name": "A GET B NPL LV",
+                    "name_en": "A GET B NPL LV",
+                    "name_th": "A GET B NPL LV",
+                    "description_en": "A GET B NPL LV",
+                    "description_th": "A GET B NPL LV",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "BEF1",
+                    "price": 0,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|PIZZA|AGBNLV",
+                            "product_type": "PIZZA",
+                            "name_en": "Choose Pizza",
+                            "name_th": "เลือกพิซซ่า",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "PIZZA|MARGT|MARGHERITA",
+                                    "product_type": "PIZZA",
+                                    "code": "MARGT",
+                                    "name": "MARGHERITA",
+                                    "name_en": "Margherita Pizza",
+                                    "name_th": "พิซซ่ามาการิต้า",
+                                    "description_en": "Authentic Italian style pizza, perfectly balanced, rich sauce, delicious in real Italian style.",
+                                    "description_th": "พิซซ่าสไตล์นาโปลีแท้ authentic italy style แท้ๆ กลมกล่อมลงตัว ซอสเข้มข้น อร่อยสไตล์อิตาลีแท้",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 299,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "105",
+                                                    "crust_code": "ALMOND PRETZA",
+                                                    "crust_name_en": "ALMOND PRETZA",
+                                                    "crust_name_th": "ALMOND PRETZA",
+                                                    "price": 30
+                                                },
+                                                {
+                                                    "crust_id": "106",
+                                                    "crust_code": "JUMBO PRETZA",
+                                                    "crust_name_en": "JUMBO PRETZA",
+                                                    "crust_name_th": "JUMBO PRETZA",
+                                                    "price": 130
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "sizeid": "29",
+                                            "sizecode": "NPL10",
+                                            "sizename_en": "Airy Dough 10 inch",
+                                            "sizename_th": "แอรี่ โดว์ 10 นิ้ว",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 329,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "94",
+                                                    "crust_code": "AIRY DOUGH",
+                                                    "crust_name_en": "AIRY DOUGH",
+                                                    "crust_name_th": "AIRY DOUGH",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|PIZZA|AGBNLV",
+                            "product_type": "PIZZA",
+                            "name_en": "Choose Pizza",
+                            "name_th": "เลือกพิซซ่า",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "PIZZA|PPI|PEPPERONI",
+                                    "product_type": "PIZZA",
+                                    "code": "PPI",
+                                    "name": "PEPPERONI",
+                                    "name_en": "Pepperoni",
+                                    "name_th": "เปปเปอโรนี",
+                                    "description_en": "Cheese, Pepperoni, and Pizza Sauce",
+                                    "description_th": "ชีส, เปปเปอโรนี และซอสพิซซ่า",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 269,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "1",
+                                                    "crust_code": "PAN",
+                                                    "crust_name_en": "PAN",
+                                                    "crust_name_th": "PAN",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "104",
+                                                    "crust_code": "ORIGINAL PRETZA",
+                                                    "crust_name_en": "ORIGINAL PRETZA",
+                                                    "crust_name_th": "ORIGINAL PRETZA",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "2",
+                                                    "crust_code": "THIN",
+                                                    "crust_name_en": "THIN",
+                                                    "crust_name_th": "THIN",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|HCE|HAM AND CHEESE",
+                                    "product_type": "PIZZA",
+                                    "code": "HCE",
+                                    "name": "HAM AND CHEESE",
+                                    "name_en": "Ham & Cheese",
+                                    "name_th": "แฮม & ชีส",
+                                    "description_en": "Cheese, Ham, Cheese Dice, Pineapple and Thousand Island Sauce",
+                                    "description_th": "ชีส, แฮมหมู, ชีสไดซ์, สับปะรด และซอสเทาซันด์ไอแลนด์",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 299,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "1",
+                                                    "crust_code": "PAN",
+                                                    "crust_name_en": "PAN",
+                                                    "crust_name_th": "PAN",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "104",
+                                                    "crust_code": "ORIGINAL PRETZA",
+                                                    "crust_name_en": "ORIGINAL PRETZA",
+                                                    "crust_name_th": "ORIGINAL PRETZA",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "2",
+                                                    "crust_code": "THIN",
+                                                    "crust_name_en": "THIN",
+                                                    "crust_name_th": "THIN",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|CHE|CHEESE LOVER",
+                                    "product_type": "PIZZA",
+                                    "code": "CHE",
+                                    "name": "CHEESE LOVER",
+                                    "name_en": "Cheese",
+                                    "name_th": "ชีส",
+                                    "description_en": "Cheese and Pizza Sauce",
+                                    "description_th": "ชีส และซอสพิซซ่า",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 269,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "1",
+                                                    "crust_code": "PAN",
+                                                    "crust_name_en": "PAN",
+                                                    "crust_name_th": "PAN",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "104",
+                                                    "crust_code": "ORIGINAL PRETZA",
+                                                    "crust_name_en": "ORIGINAL PRETZA",
+                                                    "crust_name_th": "ORIGINAL PRETZA",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "2",
+                                                    "crust_code": "THIN",
+                                                    "crust_name_en": "THIN",
+                                                    "crust_name_th": "THIN",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|NOS|NEW ORLEANS AND SAUSAGE",
+                                    "product_type": "PIZZA",
+                                    "code": "NOS",
+                                    "name": "NEW ORLEANS AND SAUSAGE",
+                                    "name_en": "New Orleans & Sausage",
+                                    "name_th": "นิวออร์ลีนส์ & ซอสเซจ",
+                                    "description_en": "Cheese, New Orleans Chicken, Chicken Sausage, Pineapple and Thousand Island Sauce",
+                                    "description_th": "ชีส, ไก่นิวออร์ลีนส์, ไส้กรอกไก่, สับปะรด และซอสเทาซันด์ไอแลนด์",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 299,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "1",
+                                                    "crust_code": "PAN",
+                                                    "crust_name_en": "PAN",
+                                                    "crust_name_th": "PAN",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "104",
+                                                    "crust_code": "ORIGINAL PRETZA",
+                                                    "crust_name_en": "ORIGINAL PRETZA",
+                                                    "crust_name_th": "ORIGINAL PRETZA",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "2",
+                                                    "crust_code": "THIN",
+                                                    "crust_name_en": "THIN",
+                                                    "crust_name_th": "THIN",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|CKGC|CHICKEN GREEN CURRY",
+                                    "product_type": "PIZZA",
+                                    "code": "CKGC",
+                                    "name": "CHICKEN GREEN CURRY",
+                                    "name_en": "Chicken Green Curry Pizza",
+                                    "name_th": "พิซซ่าเขียวหวานไก่",
+                                    "description_en": "Large chicken pieces with authentic Thai green curry flavor — rich, aromatic, and full of traditional herbs and spices.",
+                                    "description_th": "ไก่ชิ้นใหญ่ รสชาติดั้งเดิมไทยแท้ หอมกลิ่นเครื่องแกงเขียวหวาน รสชาติเข้มข้น",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 299,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "1",
+                                                    "crust_code": "PAN",
+                                                    "crust_name_en": "PAN",
+                                                    "crust_name_th": "PAN",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "2",
+                                                    "crust_code": "THIN",
+                                                    "crust_name_en": "THIN",
+                                                    "crust_name_th": "THIN",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|1FCZ|1F1 CHON ZABB",
+                    "product_type": "PROMOTION",
+                    "code": "1FCZ",
+                    "name": "1F1 CHON ZABB",
+                    "name_en": "Buy 1 Get 1 CHON ZABB",
+                    "name_th": "ซื้อ 1 แถม 1 ฮัทไก่ทอดเกาหลีซอสการ์ลิค & ฮัทปีกไก่แซ่บบ (คละรสชาติได้)",
+                    "description_en": "Buy 1 Get 1 Free \r\nHut Chon Wings & Hut Chic Zabb\r\n(mix & match flavors)",
+                    "description_th": "ซื้อ 1 แถม 1 ฮัทไก่ทอดเกาหลีซอสการ์ลิค & ฮัทปีกไก่แซ่บบ (คละรสชาติได้)",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 159,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|SIDE ORDER|1FCZ",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|HCW|HUT CHON WINGS",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "HCW",
+                                    "name": "HUT CHON WINGS",
+                                    "name_en": "Hut Chon Wings",
+                                    "name_th": "ฮัทไก่ทอดเกาหลีซอสการ์ลิค",
+                                    "description_en": "Korean Fried Chicken with Garlic Sauce, 5 pieces. Fried chicken coated with juicy sauce. Fragrant smell of garlic and spices Special recipe from Pizza Hut",
+                                    "description_th": "ฮัทไก่ทอดเกาหลีซอสการ์ลิค 5 ชิ้น ไก่ทอดเคลือบซอสสุดฉ่ำ หอมกลิ่นกระเทียมเครื่องเทศ สูตรเฉพาะจากพิซซ่าฮัท",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "19",
+                                            "sizecode": "5PCS",
+                                            "sizename_en": "5 Pieces",
+                                            "sizename_th": "5 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|HZW|HUT CHIC ZABB",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "HZW",
+                                    "name": "HUT CHIC ZABB",
+                                    "name_en": "Hut Chic Zabb",
+                                    "name_th": "ฮัทปีกไก่แซ่บบ",
+                                    "description_en": "Hut Chic Zabb Fried Chicken, 6 pieces, super crispy fried chicken Mixed with spiciness with spicy spices. Special recipe from Pizza Hut",
+                                    "description_th": "ฮัทปีกไก่แซ่บบ 6 ชิ้น ไก่ทอดสุดกรอบ คลุกเคล้าความแซ่บด้วยเครื่องเทศรสจัดจ้าน สูตรเฉพาะจากพิซซ่าฮัท",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|SIDE ORDER|1FCZ",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|HCW|HUT CHON WINGS",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "HCW",
+                                    "name": "HUT CHON WINGS",
+                                    "name_en": "Hut Chon Wings",
+                                    "name_th": "ฮัทไก่ทอดเกาหลีซอสการ์ลิค",
+                                    "description_en": "Korean Fried Chicken with Garlic Sauce, 5 pieces. Fried chicken coated with juicy sauce. Fragrant smell of garlic and spices Special recipe from Pizza Hut",
+                                    "description_th": "ฮัทไก่ทอดเกาหลีซอสการ์ลิค 5 ชิ้น ไก่ทอดเคลือบซอสสุดฉ่ำ หอมกลิ่นกระเทียมเครื่องเทศ สูตรเฉพาะจากพิซซ่าฮัท",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "19",
+                                            "sizecode": "5PCS",
+                                            "sizename_en": "5 Pieces",
+                                            "sizename_th": "5 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|HZW|HUT CHIC ZABB",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "HZW",
+                                    "name": "HUT CHIC ZABB",
+                                    "name_en": "Hut Chic Zabb",
+                                    "name_th": "ฮัทปีกไก่แซ่บบ",
+                                    "description_en": "Hut Chic Zabb Fried Chicken, 6 pieces, super crispy fried chicken Mixed with spiciness with spicy spices. Special recipe from Pizza Hut",
+                                    "description_th": "ฮัทปีกไก่แซ่บบ 6 ชิ้น ไก่ทอดสุดกรอบ คลุกเคล้าความแซ่บด้วยเครื่องเทศรสจัดจ้าน สูตรเฉพาะจากพิซซ่าฮัท",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|1FNAW|1F1 NOW AND WINGS FISH SAUCE",
+                    "product_type": "PROMOTION",
+                    "code": "1FNAW",
+                    "name": "1F1 NOW AND WINGS FISH SAUCE",
+                    "name_en": "Buy 1 Get 1 New Orleans AND WINGS FISH SAUCE",
+                    "name_th": "ซื้อ 1 แถม 1 ไก่นิวออร์ลีนส์ นิวออร์ลีนส์สไปซี่ และฮัทปีกไก่ทอดน้ำปลา (คละรสชาติได้)",
+                    "description_en": "Buy 6 pieces of New Orleans Chicken and get 6 pieces free. Flavors can be mixed and matched, including New Orleans, Spicy New Orleans, and Fish Sauce Fried Chicken Wings.",
+                    "description_th": "ซื้อ 1 แถม 1  เมื่อซื้อ ไก่นิวออร์ลีนส์ 6 ชิ้น แถมฟรี 6 ชิ้น สามารถเลือกคละรสชาติได้คือ นิวออร์ลีนส์ นิวออร์ลีนส์สไปซี่ และฮัทปีกไก่ทอดน้ำปลา",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 149,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|SIDE ORDER|1FNAW",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|DNOW|DRUMMET NEW ORLEANS WINGS",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "DNOW",
+                                    "name": "DRUMMET NEW ORLEANS WINGS",
+                                    "name_en": "DRUMMET NEW ORLEANS WINGS",
+                                    "name_th": "DRUMMET NEW ORLEANS WINGS",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|DSPW|DRUMMET NEW ORLEANS SPICY WINGS",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "DSPW",
+                                    "name": "DRUMMET NEW ORLEANS SPICY WINGS",
+                                    "name_en": "DRUMMET NEW ORLEANS SPICY WINGS",
+                                    "name_th": "DRUMMET NEW ORLEANS SPICY WINGS",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|HCKFS|HUT CHICKEN FISH SAUCE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "HCKFS",
+                                    "name": "HUT CHICKEN FISH SAUCE",
+                                    "name_en": "HUT CHICKEN FISH SAUCE",
+                                    "name_th": "HUT CHICKEN FISH SAUCE",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|SIDE ORDER|1FNAW",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|DNOW|DRUMMET NEW ORLEANS WINGS",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "DNOW",
+                                    "name": "DRUMMET NEW ORLEANS WINGS",
+                                    "name_en": "DRUMMET NEW ORLEANS WINGS",
+                                    "name_th": "DRUMMET NEW ORLEANS WINGS",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|DSPW|DRUMMET NEW ORLEANS SPICY WINGS",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "DSPW",
+                                    "name": "DRUMMET NEW ORLEANS SPICY WINGS",
+                                    "name_en": "DRUMMET NEW ORLEANS SPICY WINGS",
+                                    "name_th": "DRUMMET NEW ORLEANS SPICY WINGS",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|HCKFS|HUT CHICKEN FISH SAUCE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "HCKFS",
+                                    "name": "HUT CHICKEN FISH SAUCE",
+                                    "name_en": "HUT CHICKEN FISH SAUCE",
+                                    "name_th": "HUT CHICKEN FISH SAUCE",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|MEID|MELTS EIIM DIEW",
+                    "product_type": "PROMOTION",
+                    "code": "MEID",
+                    "name": "MELTS EIIM DIEW",
+                    "name_en": "Melts Eiim Diew 99.-",
+                    "name_th": "เมลทส์ อิ่มเดี่ยว 99.-",
+                    "description_en": "Melts and French Fries. a complete meal in one box, only 99.-",
+                    "description_th": "เมลทส์ และ เฟรนช์ฟรายส์ อิ่มครบ จบในกล่อง เพียง 99.-",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 99,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|PIZZA|MEID",
+                            "product_type": "PIZZA",
+                            "name_en": "Choose Pizza",
+                            "name_th": "เลือกพิซซ่า",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "PIZZA|MSMH|MELTS SMOKED HAM",
+                                    "product_type": "PIZZA",
+                                    "code": "MSMH",
+                                    "name": "MELTS SMOKED HAM",
+                                    "name_en": "MELTS SMOKED HAM",
+                                    "name_th": "MELTS SMOKED HAM",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "65",
+                                            "sizecode": "1PCS",
+                                            "sizename_en": "1 Pieces",
+                                            "sizename_th": "1 ชิ้น",
+                                            "description_en": "For 1 person",
+                                            "description_th": "สำหรับ 1 ท่าน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "23",
+                                                    "crust_code": "MELTS",
+                                                    "crust_name_en": "MELTS",
+                                                    "crust_name_th": "MELTS",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|MBTF|MELTS BLACK TRUFFLE",
+                                    "product_type": "PIZZA",
+                                    "code": "MBTF",
+                                    "name": "MELTS BLACK TRUFFLE",
+                                    "name_en": "MELTS BLACK TRUFFLE",
+                                    "name_th": "MELTS BLACK TRUFFLE",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "65",
+                                            "sizecode": "1PCS",
+                                            "sizename_en": "1 Pieces",
+                                            "sizename_th": "1 ชิ้น",
+                                            "description_en": "For 1 person",
+                                            "description_th": "สำหรับ 1 ท่าน",
+                                            "price": 20,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "23",
+                                                    "crust_code": "MELTS",
+                                                    "crust_name_en": "MELTS",
+                                                    "crust_name_th": "MELTS",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|MCHJ|MELTS CHK JALAPENO",
+                                    "product_type": "PIZZA",
+                                    "code": "MCHJ",
+                                    "name": "MELTS CHK JALAPENO",
+                                    "name_en": "MELTS CHK JALAPENO",
+                                    "name_th": "MELTS CHK JALAPENO",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "65",
+                                            "sizecode": "1PCS",
+                                            "sizename_en": "1 Pieces",
+                                            "sizename_th": "1 ชิ้น",
+                                            "description_en": "For 1 person",
+                                            "description_th": "สำหรับ 1 ท่าน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "23",
+                                                    "crust_code": "MELTS",
+                                                    "crust_name_en": "MELTS",
+                                                    "crust_name_th": "MELTS",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|MHCE|MELTS HKD CHEESE",
+                                    "product_type": "PIZZA",
+                                    "code": "MHCE",
+                                    "name": "MELTS HKD CHEESE",
+                                    "name_en": "MELTS HKD CHEESE",
+                                    "name_th": "MELTS HKD CHEESE",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "65",
+                                            "sizecode": "1PCS",
+                                            "sizename_en": "1 Pieces",
+                                            "sizename_th": "1 ชิ้น",
+                                            "description_en": "For 1 person",
+                                            "description_th": "สำหรับ 1 ท่าน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "23",
+                                                    "crust_code": "MELTS",
+                                                    "crust_name_en": "MELTS",
+                                                    "crust_name_th": "MELTS",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|MHNWN|MELTS HAWAIIAN",
+                                    "product_type": "PIZZA",
+                                    "code": "MHNWN",
+                                    "name": "MELTS HAWAIIAN",
+                                    "name_en": "MELTS HAWAIIAN",
+                                    "name_th": "MELTS HAWAIIAN",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "65",
+                                            "sizecode": "1PCS",
+                                            "sizename_en": "1 Pieces",
+                                            "sizename_th": "1 ชิ้น",
+                                            "description_en": "For 1 person",
+                                            "description_th": "สำหรับ 1 ท่าน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "23",
+                                                    "crust_code": "MELTS",
+                                                    "crust_name_en": "MELTS",
+                                                    "crust_name_th": "MELTS",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|MLSG|MELTS LASAGNA",
+                                    "product_type": "PIZZA",
+                                    "code": "MLSG",
+                                    "name": "MELTS LASAGNA",
+                                    "name_en": "MELTS LASAGNA",
+                                    "name_th": "MELTS LASAGNA",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "65",
+                                            "sizecode": "1PCS",
+                                            "sizename_en": "1 Pieces",
+                                            "sizename_th": "1 ชิ้น",
+                                            "description_en": "For 1 person",
+                                            "description_th": "สำหรับ 1 ท่าน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "23",
+                                                    "crust_code": "MELTS",
+                                                    "crust_name_en": "MELTS",
+                                                    "crust_name_th": "MELTS",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|MHCH|MELTS HOLY CHEESES",
+                                    "product_type": "PIZZA",
+                                    "code": "MHCH",
+                                    "name": "MELTS HOLY CHEESES",
+                                    "name_en": "MELTS HOLY CHEESES",
+                                    "name_th": "MELTS HOLY CHEESES",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "65",
+                                            "sizecode": "1PCS",
+                                            "sizename_en": "1 Pieces",
+                                            "sizename_th": "1 ชิ้น",
+                                            "description_en": "For 1 person",
+                                            "description_th": "สำหรับ 1 ท่าน",
+                                            "price": 20,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "23",
+                                                    "crust_code": "MELTS",
+                                                    "crust_name_en": "MELTS",
+                                                    "crust_name_th": "MELTS",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|MSFD|MELTS SF DELIGHT",
+                                    "product_type": "PIZZA",
+                                    "code": "MSFD",
+                                    "name": "MELTS SF DELIGHT",
+                                    "name_en": "MELTS SF DELIGHT",
+                                    "name_th": "MELTS SF DELIGHT",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "65",
+                                            "sizecode": "1PCS",
+                                            "sizename_en": "1 Pieces",
+                                            "sizename_th": "1 ชิ้น",
+                                            "description_en": "For 1 person",
+                                            "description_th": "สำหรับ 1 ท่าน",
+                                            "price": 30,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "23",
+                                                    "crust_code": "MELTS",
+                                                    "crust_name_en": "MELTS",
+                                                    "crust_name_th": "MELTS",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|SIDE ORDER|MEID",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|FFS|FRENCH FRIES",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "FFS",
+                                    "name": "FRENCH FRIES",
+                                    "name_en": "French Fries",
+                                    "name_th": "เฟรนช์ฟรายส์",
+                                    "description_en": "Crunchy fried French fries, crispy outside, soft inside. Fun to chew, enjoy the ultimate party",
+                                    "description_th": "เฟรนช์ฟรายส์ทอดกรอบ กรอบนอกนุ่มใน เคี้ยวเพลิน เอนจอยปาร์ตี้สุดฟิน",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "53",
+                                            "sizecode": "100G",
+                                            "sizename_en": "",
+                                            "sizename_th": "",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "MEALSET|1F1BEV|1F1 BEVERAGE",
+                    "product_type": "MEALSET",
+                    "code": "1F1BEV",
+                    "name": "1F1 BEVERAGE",
+                    "name_en": "Hut 1 Free 1 Baverage 16oz.",
+                    "name_th": "\r\nฮัทซื้อ 1 แถม 1 เครื่องดื่ม 16 ออนซ์",
+                    "description_en": "Buy Pepsi, Pepsi Zero Sugar and Lemon Iced Tea 16oz. Get free 1 cup.",
+                    "description_th": "เมื่อซื้อเป๊ปซี่, เป๊ปซี่ไม่มีน้ำตาล และชามะนาว 16 ออนซ์ 1 แก้ว แถมฟรี อีก 1 แก้ว",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 49,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|DRINK|1F1BEV",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|PEP16OZ|PEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PEP16OZ",
+                                    "name": "PEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์",
+                                    "description_en": "Pepsi 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|PZS|PEPSI ZERO SUGAR 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PZS",
+                                    "name": "PEPSI ZERO SUGAR 16 OZ",
+                                    "name_en": "Pepsi Zero Sugar 16oz",
+                                    "name_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์",
+                                    "description_en": "Pepsi Zero Sugar 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ ไม่มีน้ำตาล 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|LMT|LEMON TEA 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "LMT",
+                                    "name": "LEMON TEA 16 OZ",
+                                    "name_en": "Lemon Iced Tea 16oz",
+                                    "name_th": "ชามะนาว 16 ออนซ์",
+                                    "description_en": "Lemon Iced Tea 16oz 1 cup",
+                                    "description_th": "ชามะนาว 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|DRINK|1F1BEV",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|PEP16OZ|PEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PEP16OZ",
+                                    "name": "PEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์",
+                                    "description_en": "Pepsi 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|PZS|PEPSI ZERO SUGAR 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PZS",
+                                    "name": "PEPSI ZERO SUGAR 16 OZ",
+                                    "name_en": "Pepsi Zero Sugar 16oz",
+                                    "name_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์",
+                                    "description_en": "Pepsi Zero Sugar 16oz 1 Cup",
+                                    "description_th": "เป๊ปซี่ ไม่มีน้ำตาล 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|LMT|LEMON TEA 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "LMT",
+                                    "name": "LEMON TEA 16 OZ",
+                                    "name_en": "Lemon Iced Tea 16oz",
+                                    "name_th": "ชามะนาว 16 ออนซ์",
+                                    "description_en": "Lemon Iced Tea 16oz 1 cup",
+                                    "description_th": "ชามะนาว 16 ออนซ์ 1 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|SCLHP|SCALLOP HALF PRICE",
+                    "product_type": "PROMOTION",
+                    "code": "SCLHP",
+                    "name": "SCALLOP HALF PRICE",
+                    "name_en": "Half Price Scallop",
+                    "name_th": "ฮัทคนละครึ่ง พิซซ่าหน้าหอยเชลล์",
+                    "description_en": "Half Price Scallop\r\nPremium Sea Scallop Pizza, crafted with ocean-fresh flavor and delivered straight to you.",
+                    "description_th": "ฮัทคนละครึ่ง\r\nพิซซ่าหน้าหอยเชลล์ รสทะเลพรีเมี่ยม คุ้มค่า ส่งตรงถึงมือคุณ",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 249,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|PIZZA|SCLHP",
+                            "product_type": "PIZZA",
+                            "name_en": "Choose Pizza",
+                            "name_th": "เลือกพิซซ่า",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "PIZZA|SCLP|SCALLOP",
+                                    "product_type": "PIZZA",
+                                    "code": "SCLP",
+                                    "name": "SCALLOP",
+                                    "name_en": "Scallop Pizza",
+                                    "name_th": "พิซซ่าหน้าหอยเชลล์",
+                                    "description_en": "Premium Grilled Scallops – Generous, plump scallops served in a full tray with rich melted cheese, grilled mushrooms, topped with onion, sweet peppers, and fresh parsley.",
+                                    "description_th": "หอยเชลล์ย่างสุดพรีเมียมชิ้นโต จัดเต็มถาด ทานพร้อมชีสหัวนัวสุดกลมกล่อม เห็ดย่าง โรยด้วยหัวหอม พริกหวาน และใบพาสลีย์",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "29",
+                                            "sizecode": "NPL10",
+                                            "sizename_en": "Airy Dough 10 inch",
+                                            "sizename_th": "แอรี่ โดว์ 10 นิ้ว",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "94",
+                                                    "crust_code": "AIRY DOUGH",
+                                                    "crust_name_en": "AIRY DOUGH",
+                                                    "crust_name_th": "AIRY DOUGH",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PROMOTION|VLCB|VOLCANO COMBO",
+                    "product_type": "PROMOTION",
+                    "code": "VLCB",
+                    "name": "VOLCANO COMBO",
+                    "name_en": "Volcano Combo",
+                    "name_th": "ภูเขาไฟ คอมโบ",
+                    "description_en": "1 Pizza Volcano with Doritos crust and lava dip, 1 chicken set, 2 Pepsi",
+                    "description_th": "พิซซ่าภูเขาไฟขอบโดริโทส ดิปลาวา 1 ถาด, ไก่ 1 เซ็ต, เป๊ปซี่ 2 แก้ว",
+                    "selling_time": "away_time",
+                    "status": "AVAILABLE",
+                    "price_concept": "NORMAL",
+                    "price": 549,
+                    "itemSelection": [
+                        {
+                            "id": "Z1|PIZZA|VLCB",
+                            "product_type": "PIZZA",
+                            "name_en": "Choose Pizza",
+                            "name_th": "เลือกพิซซ่า",
+                            "sequence": 1,
+                            "itemGroups": [
+                                {
+                                    "id": "PIZZA|CHNC|CHICKEN NACHO",
+                                    "product_type": "PIZZA",
+                                    "code": "CHNC",
+                                    "name": "CHICKEN NACHO",
+                                    "name_en": "Volcano Chicken Nacho",
+                                    "name_th": "พิซซ่าภูเขาไฟขอบโดริโทส ชิกเก้นนาโช",
+                                    "description_en": "Chunky tomato sauce, spices, nacho chicken, coriander, onion, pickled jalapeno pepper, fresh tomato, mayonnaise, cheese with Doritos Crust & Lava Dipping",
+                                    "description_th": "ซอสมะเขือเทศ, เครื่องเทศ, ไก่นาโช, ผักชี, หอมใหญ่, พริกดองฮาลาพิโน่, มะเขือเทศสด, มายองเนส,ชีส พร้อมขอบโดริโทส ดิปลาวา",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "126",
+                                                    "crust_code": "VOLCANO CHEESE C",
+                                                    "crust_name_en": "VOLCANO CHEESE C",
+                                                    "crust_name_th": "VOLCANO CHEESE C",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "127",
+                                                    "crust_code": "VOLCANO SALSA C",
+                                                    "crust_name_en": "VOLCANO SALSA C",
+                                                    "crust_name_th": "VOLCANO SALSA C",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|SPN|SPICY PEPERONI",
+                                    "product_type": "PIZZA",
+                                    "code": "SPN",
+                                    "name": "SPICY PEPERONI",
+                                    "name_en": "Volcano Spicy Pepperoni",
+                                    "name_th": "พิซซ่าภูเขาไฟขอบโดริโทส​ สไปซี่เปปเปอโรนี",
+                                    "description_en": "Chunky tomato sauce, green bell pepper, pepperoni, cheese, onion, fresh tomato, coriander, lime with Doritos Crust & Lava Dipping",
+                                    "description_th": "ซอสมะเขือเทศเข้มข้น, พริกหวานเขียว, เปปเปอโรนี, ชีส, หอมหัวใหญ่, มะเขือเทศสด, ผักชี, มะนาว พร้อมขอบโดริโทส ดิปลาวา",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "126",
+                                                    "crust_code": "VOLCANO CHEESE C",
+                                                    "crust_name_en": "VOLCANO CHEESE C",
+                                                    "crust_name_th": "VOLCANO CHEESE C",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "127",
+                                                    "crust_code": "VOLCANO SALSA C",
+                                                    "crust_name_en": "VOLCANO SALSA C",
+                                                    "crust_name_th": "VOLCANO SALSA C",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|MACE|MAC AND CHEESE",
+                                    "product_type": "PIZZA",
+                                    "code": "MACE",
+                                    "name": "MAC AND CHEESE",
+                                    "name_en": "Volcano Mac and Cheese",
+                                    "name_th": "พิซซ่าภูเขาไฟขอบโดริโทส​ แมคแอนด์ชีส",
+                                    "description_en": "White sauce, cheese, crispy bacon, smoked bacon, black pepper with Doritos Crust & Lava Dipping",
+                                    "description_th": "ไวท์ซอส, ชีส, เบคอนกรอบ, เบคอนรมควัน, พริกไทยดำ พร้อมขอบโดริโทส ดิปลาวา",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "126",
+                                                    "crust_code": "VOLCANO CHEESE C",
+                                                    "crust_name_en": "VOLCANO CHEESE C",
+                                                    "crust_name_th": "VOLCANO CHEESE C",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "127",
+                                                    "crust_code": "VOLCANO SALSA C",
+                                                    "crust_name_en": "VOLCANO SALSA C",
+                                                    "crust_name_th": "VOLCANO SALSA C",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|VHCE|VOLCANO HAM AND CHEESE",
+                                    "product_type": "PIZZA",
+                                    "code": "VHCE",
+                                    "name": "VOLCANO HAM AND CHEESE",
+                                    "name_en": "Volcano Ham and Cheese",
+                                    "name_th": "พิซซ่าภูเขาไฟขอบโดริโทส​ แฮม & ชีส",
+                                    "description_en": "Cheese, Ham, Cheese Dice, Pineapple and Thousand Island Sauce with Doritos Crust & Lava Dipping\r\n",
+                                    "description_th": "ชีส, แฮมหมู, ชีสไดซ์, สับปะรด และซอสเทาซันด์ไอแลนด์ พร้อมขอบโดริโทส ดิปลาวา",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "126",
+                                                    "crust_code": "VOLCANO CHEESE C",
+                                                    "crust_name_en": "VOLCANO CHEESE C",
+                                                    "crust_name_th": "VOLCANO CHEESE C",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "127",
+                                                    "crust_code": "VOLCANO SALSA C",
+                                                    "crust_name_en": "VOLCANO SALSA C",
+                                                    "crust_name_th": "VOLCANO SALSA C",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|VNOS|VOLCANO NEW ORLEANS AND SAUSAGE",
+                                    "product_type": "PIZZA",
+                                    "code": "VNOS",
+                                    "name": "VOLCANO NEW ORLEANS AND SAUSAGE",
+                                    "name_en": "Volcano New Orleans and Sausage",
+                                    "name_th": "พิซซ่าภูเขาไฟขอบโดริโทส ​นิวออร์ลีนส์ & ซอสเซจ",
+                                    "description_en": "Cheese, New Orleans Chicken, Chicken Sausage, Pineapple and Thousand Island Sauce with Doritos Crust & Lava Dipping",
+                                    "description_th": "ชีส, ไก่นิวออร์ลีนส์, ไส้กรอกไก่, สับปะรด และซอสเทาซันด์ไอแลนด์ พร้อมขอบโดริโทส ดิปลาวา",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 0,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "126",
+                                                    "crust_code": "VOLCANO CHEESE C",
+                                                    "crust_name_en": "VOLCANO CHEESE C",
+                                                    "crust_name_th": "VOLCANO CHEESE C",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "127",
+                                                    "crust_code": "VOLCANO SALSA C",
+                                                    "crust_name_en": "VOLCANO SALSA C",
+                                                    "crust_name_th": "VOLCANO SALSA C",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|VHWN|VOLCANO HAWAIIAN",
+                                    "product_type": "PIZZA",
+                                    "code": "VHWN",
+                                    "name": "VOLCANO HAWAIIAN",
+                                    "name_en": "Volcano Hawaiian",
+                                    "name_th": "พิซซ่าภูเขาไฟขอบโดริโทส​ ฮาวายเอี้ยน",
+                                    "description_en": "Cheese, Ham, Bacon, Pineapple, and Pizza Sauce with Doritos Crust & Lava Dipping",
+                                    "description_th": "ชีส, สับปะรด, แฮมหมู, เบคอน และซอสพิซซ่า พร้อมขอบโดริโทส ดิปลาวา",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 40,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "126",
+                                                    "crust_code": "VOLCANO CHEESE C",
+                                                    "crust_name_en": "VOLCANO CHEESE C",
+                                                    "crust_name_th": "VOLCANO CHEESE C",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "127",
+                                                    "crust_code": "VOLCANO SALSA C",
+                                                    "crust_name_en": "VOLCANO SALSA C",
+                                                    "crust_name_th": "VOLCANO SALSA C",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "PIZZA|VIST|VOLCANO ISLAND DELIGHT",
+                                    "product_type": "PIZZA",
+                                    "code": "VIST",
+                                    "name": "VOLCANO ISLAND DELIGHT",
+                                    "name_en": "Volcano Island Delight",
+                                    "name_th": "พิซซ่าภูเขาไฟขอบโดริโทส​ ไอแลนด์ ดีไลท์",
+                                    "description_en": "Cheese, Smoked Chicken, Crab Stick, Mushroom, Pineapple, and Thousand Island Sauce with Doritos Crust & Lava Dipping",
+                                    "description_th": "ชีส, ไก่รมควัน, ปูอัด, เห็ด, สับปะรด และซอสเทาซันด์ไอแลนด์ พร้อมขอบโดริโทส ดิปลาวา",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "2",
+                                            "sizecode": "M",
+                                            "sizename_en": "Medium",
+                                            "sizename_th": "ขนาดกลาง",
+                                            "description_en": "6pcs. for 2-3 persons",
+                                            "description_th": "ขนาด 6 ชิ้นสำหรับ 2-3 คน",
+                                            "price": 40,
+                                            "crust": [
+                                                {
+                                                    "crust_id": "126",
+                                                    "crust_code": "VOLCANO CHEESE C",
+                                                    "crust_name_en": "VOLCANO CHEESE C",
+                                                    "crust_name_th": "VOLCANO CHEESE C",
+                                                    "price": 0
+                                                },
+                                                {
+                                                    "crust_id": "127",
+                                                    "crust_code": "VOLCANO SALSA C",
+                                                    "crust_name_en": "VOLCANO SALSA C",
+                                                    "crust_name_th": "VOLCANO SALSA C",
+                                                    "price": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z2|SIDE ORDER|VLCB",
+                            "product_type": "SIDE ORDER",
+                            "name_en": "Choose Appetizer",
+                            "name_th": "เลือกเมนูทานเล่น",
+                            "sequence": 2,
+                            "itemGroups": [
+                                {
+                                    "id": "SIDE ORDER|NOW|NEW ORLEANS WINGS",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "NOW",
+                                    "name": "NEW ORLEANS WINGS",
+                                    "name_en": "New Orleans",
+                                    "name_th": "นิวออร์ลีนส์",
+                                    "description_en": "Bestselling all-time, 6 pieces of New Orleans Chicken, Pizza Hut's signature. Fragrant, succulent, and incredibly juicy chicken.",
+                                    "description_th": "ขายดีตลอดกาล ไก่นิวออร์ลีนส์ 6 ชิ้น signature ของ Pizza Hut หอม เนื้อไก่ชุ่มฉ่ำ juicy สุดๆ",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|SPW|NEW ORLEANS SPICY WINGS",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "SPW",
+                                    "name": "NEW ORLEANS SPICY WINGS",
+                                    "name_en": "Spicy New Orleans",
+                                    "name_th": "นิวออร์ลีนส์สไปซี่",
+                                    "description_en": "New Orleans Chicken Spicy, 6 pieces, Pizza Hut's signature. Intensely flavorful, fragrant, and incredibly succulent chicken.",
+                                    "description_th": "ไก่นิวออร์ลีนส์สไปซี่ 6 ชิ้น signature ของ Pizza Hut รสจัดจ้าน หอม เนื้อไก่สุดชุ่มฉ่ำ",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|HCW|HUT CHON WINGS",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "HCW",
+                                    "name": "HUT CHON WINGS",
+                                    "name_en": "Hut Chon Wings",
+                                    "name_th": "ฮัทไก่ทอดเกาหลีซอสการ์ลิค",
+                                    "description_en": "Korean Fried Chicken with Garlic Sauce, 5 pieces. Fried chicken coated with juicy sauce. Fragrant smell of garlic and spices Special recipe from Pizza Hut",
+                                    "description_th": "ฮัทไก่ทอดเกาหลีซอสการ์ลิค 5 ชิ้น ไก่ทอดเคลือบซอสสุดฉ่ำ หอมกลิ่นกระเทียมเครื่องเทศ สูตรเฉพาะจากพิซซ่าฮัท",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "19",
+                                            "sizecode": "5PCS",
+                                            "sizename_en": "5 Pieces",
+                                            "sizename_th": "5 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|HZW|HUT CHIC ZABB",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "HZW",
+                                    "name": "HUT CHIC ZABB",
+                                    "name_en": "Hut Chic Zabb",
+                                    "name_th": "ฮัทปีกไก่แซ่บบ",
+                                    "description_en": "Hut Chic Zabb Fried Chicken, 6 pieces, super crispy fried chicken Mixed with spiciness with spicy spices. Special recipe from Pizza Hut",
+                                    "description_th": "ฮัทปีกไก่แซ่บบ 6 ชิ้น ไก่ทอดสุดกรอบ คลุกเคล้าความแซ่บด้วยเครื่องเทศรสจัดจ้าน สูตรเฉพาะจากพิซซ่าฮัท",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "SIDE ORDER|HCKFS|HUT CHICKEN FISH SAUCE",
+                                    "product_type": "SIDE ORDER",
+                                    "code": "HCKFS",
+                                    "name": "HUT CHICKEN FISH SAUCE",
+                                    "name_en": "HUT CHICKEN FISH SAUCE",
+                                    "name_th": "HUT CHICKEN FISH SAUCE",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "10",
+                                            "sizecode": "6PCS",
+                                            "sizename_en": "6 Pieces",
+                                            "sizename_th": "6 ชิ้น",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Z3|DRINK|VLCB",
+                            "product_type": "DRINK",
+                            "name_en": "Choose Drink",
+                            "name_th": "เลือกเครื่องดื่ม",
+                            "sequence": 3,
+                            "itemGroups": [
+                                {
+                                    "id": "DRINK|2PEP16|2xPEPSI 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "2PEP16",
+                                    "name": "2xPEPSI 16 OZ",
+                                    "name_en": "Pepsi 16oz 2 cups",
+                                    "name_th": "เป๊ปซี่ 16 ออนซ์ 2 แก้ว",
+                                    "description_en": "Pepsi 16oz 2 cup",
+                                    "description_th": "เป๊ปซี่ไม่มีน้ำตาล 16 ออนซ์ 2 แก้ว",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "DRINK|PSN2|2X PEPSI NO SUGAR 16 OZ",
+                                    "product_type": "DRINK",
+                                    "code": "PSN2",
+                                    "name": "2X PEPSI NO SUGAR 16 OZ",
+                                    "name_en": "2X PEPSI NO SUGAR 16 OZ",
+                                    "name_th": "2X PEPSI NO SUGAR 16 OZ",
+                                    "description_en": "",
+                                    "description_th": "",
+                                    "status": "AVAILABLE",
+                                    "subitems": [
+                                        {
+                                            "sizeid": "6",
+                                            "sizecode": "GLS",
+                                            "sizename_en": "Glass",
+                                            "sizename_th": "แก้ว",
+                                            "price": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
