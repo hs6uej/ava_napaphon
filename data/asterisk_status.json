@@ -1,0 +1,20 @@
+{
+    "timestamp": "2026-03-12T09:26:04Z",
+    "asterisk_found": true,
+    "asterisk_version": "Asterisk 22.2.0",
+    "config_dir": "/usr/local/etc/asterisk",
+    "freepbx": {
+        "detected": false,
+        "version": ""
+    },
+    "checks": {
+    "ari_enabled": { "ok": true, "detail": "enabled=yes in ari.conf" },
+    "ari_user": { "ok": false, "detail": "not found" },
+    "http_enabled": { "ok": false, "detail": "not found" },
+    "dialplan_context": { "ok": false, "detail": "not found" },
+    "module_app_audiosocket": { "ok": false, "detail": "Not loaded" },
+    "module_res_ari": { "ok": false, "detail": "Not loaded" },
+    "module_res_stasis": { "ok": false, "detail": "Not loaded" },
+    "module_chan_pjsip": { "ok": false, "detail": "Not loaded" }
+}
+}

@@ -1,0 +1,9 @@
+{
+  "google_live@8000Hz": {
+    "type": "bursty",
+    "mean_interval_ms": 62.93774709372956,
+    "max_gap_ms": 1253.4940242767334,
+    "variance": 2847.1283534364798,
+    "optimal_buffer_ms": 197
+  }
+}

@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 10 10 11;
+  --foreground: 237 237 237;
+  --card-bg: 255 255 255 / 0.03;
+  --card-border: 255 255 255 / 0.1;
+  --accent-glow: 37 99 235 / 0.15;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground selection:bg-brand/30;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-[rgba(255,255,255,0.03)] border border-[rgba(255,255,255,0.08)] backdrop-blur-xl transition-all duration-300;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  }
+
+  .glass-card:hover {
+    @apply border-[rgba(255,255,255,0.15)] bg-[rgba(255,255,255,0.05)];
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+  }
+
+  .sidebar-link {
+    @apply flex items-center gap-3 px-4 py-3 rounded-xl transition-all duration-200 text-foreground/60 hover:text-foreground hover:bg-white/5;
+  }
+
+  .sidebar-link.active {
+    @apply text-brand-light bg-brand/10 border-r-2 border-brand;
+  }
+
+  .stat-card {
+    @apply p-6 rounded-2xl glass-card relative overflow-hidden;
+  }
+
+  .stat-card::after {
+    content: '';
+    @apply absolute -right-4 -bottom-4 w-24 h-24 rounded-full bg-brand/10 blur-3xl;
+  }
+}
+
+/* Custom scrollbar for premium feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-background;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-white/10 rounded-full hover:bg-white/20 transition-colors;
+}
+
+/* Page transitions */
+.page-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

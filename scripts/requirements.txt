@@ -1,0 +1,2 @@
+# Database drivers
+psycopg2-binary>=2.9.0  # PostgreSQL driver
