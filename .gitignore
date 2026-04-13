@@ -306,3 +306,6 @@ secrets/**
 *.zip
 *.ai-agent.local.yaml.bak.*
 config/ai-agent.local.yaml.bak.*
+
+*.claude
+example_10

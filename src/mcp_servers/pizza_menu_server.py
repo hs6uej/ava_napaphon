@@ -2,10 +2,49 @@
 import sys
 import json
 import os
+import argparse
 
 # --- Configuration ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
+
+
+def _load_config_file(config_path: str) -> dict:
+    """Load optional YAML/JSON config file to override defaults (e.g. data_dir)."""
+    if not config_path or not os.path.isfile(config_path):
+        return {}
+    try:
+        with open(config_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        # Try JSON first, then YAML
+        try:
+            return json.loads(content)
+        except json.JSONDecodeError:
+            try:
+                import yaml  # type: ignore
+                return yaml.safe_load(content) or {}
+            except Exception:
+                return {}
+    except Exception as e:
+        sys.stderr.write(f"DEBUG: Could not load config file {config_path}: {e}\n")
+        return {}
+
+
+def _parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Pizza Menu MCP Server")
+    parser.add_argument(
+        "--config",
+        default=None,
+        help="Path to optional YAML/JSON config file (e.g. /app/config/pizza-menu-python-config.yaml)",
+    )
+    return parser.parse_args()
+
+
+# Apply optional config overrides
+_args = _parse_args()
+_file_cfg = _load_config_file(_args.config) if _args.config else {}
+if _file_cfg.get("data_dir"):
+    DATA_DIR = _file_cfg["data_dir"]
 
 def log(msg: str):
     sys.stderr.write(f"DEBUG: {msg}\n")
