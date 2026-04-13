@@ -555,6 +555,12 @@ Tool Definitions:
             self.register(HangupCallTool)
         except ImportError as e:
             logger.warning(f"Could not import HangupCallTool: {e}")
+
+        try:
+            from src.tools.telephony.set_barge_in import SetBargeInTool
+            self.register(SetBargeInTool)
+        except ImportError as e:
+            logger.warning(f"Could not import SetBargeInTool: {e}")
         
         try:
             from src.tools.telephony.voicemail import VoicemailTool

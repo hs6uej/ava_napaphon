@@ -6972,6 +6972,17 @@ class Engine:
                 )
                 return
 
+            # Per-call barge-in override: disabled during critical speech phases
+            # (e.g. debt collection disclosure). Set via set_barge_in tool.
+            if not bool(getattr(session, "barge_in_enabled", True)):
+                logger.info(
+                    "🔒 Barge-in suppressed (barge_in_enabled=False)",
+                    call_id=call_id,
+                    source=source,
+                    reason=reason,
+                )
+                return
+
             # Stop/flush streaming playback first (prevents tail audio).
             # Mark end_reason so cleanup skips remainder flush (avoids oversized RTP packets).
             try:

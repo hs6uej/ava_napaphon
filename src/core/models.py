@@ -86,6 +86,11 @@ class CallSession:
     conversation_history: List[Dict[str, Any]] = field(default_factory=list)
     start_time: Optional[datetime] = None
     
+    # Per-call barge-in control (runtime toggle for critical speech phases)
+    # Set to False during phases where interruption must be blocked (e.g. debt collection disclosure).
+    # Unlike the global barge_in.enabled config, this can be toggled mid-call via the set_barge_in tool.
+    barge_in_enabled: bool = True
+
     # Audio capture and TTS gating
     audio_capture_enabled: bool = False
     tts_playing: bool = False
