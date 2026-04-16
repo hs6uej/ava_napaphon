@@ -1,7 +1,7 @@
 import React from 'react';
 export const dynamic = 'force-dynamic';
 import { Save, Bot, MessageSquare, PhoneForwarded } from 'lucide-react';
-import { tenantQuery, query } from '@/lib/db';
+import { tenantQuery, query } from '../../lib/db';
 import { revalidatePath } from 'next/cache';
 
 async function updateSettings(formData: FormData) {

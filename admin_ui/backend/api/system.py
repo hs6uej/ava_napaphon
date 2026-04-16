@@ -10,6 +10,7 @@ import re
 import subprocess
 import uuid
 import yaml
+import tempfile
 from services.fs import upsert_env_vars
 
 logger = logging.getLogger(__name__)
@@ -3301,13 +3302,15 @@ def _run_docker(args: list[str], *, cwd: Optional[str] = None, timeout_sec: int 
     if not args or any((not isinstance(a, str) or a == "" or "\x00" in a or any(c.isspace() for c in a)) for a in args):
         raise ValueError("invalid docker args")
     try:
+        env = os.environ.copy()
+        env["DOCKER_BUILDKIT"] = "1"
         proc = subprocess.run(
             ["docker", *args],
             cwd=cwd,
             capture_output=True,
             text=True,
             timeout=timeout_sec,
-            env=os.environ.copy(),
+            env=env,
         )
         out = (proc.stdout or "") + (proc.stderr or "")
         return int(proc.returncode), out
@@ -3560,11 +3563,19 @@ def _ensure_updater_image_for_sha(host_project_root: str, tag: str) -> None:
                 _sanitize_for_log(build_root),
             )
             safe_tag = _validate_docker_image_ref(tag)
-            code, out = _run_docker(
-                ["build", "--network=host", "-f", "updater/Dockerfile", "-t", safe_tag, "."],
-                cwd=build_root,
-                timeout_sec=1800,
-            )
+            with tempfile.TemporaryDirectory() as tmp_dir:
+                # AAVA-179: Isolate build context to avoid 'can't stat' errors on large/privileged data/ volumes.
+                # Only copy directories required by updater/Dockerfile.
+                for d in ["cli", "updater"]:
+                    src = os.path.join(build_root, d)
+                    if os.path.exists(src):
+                        shutil.copytree(src, os.path.join(tmp_dir, d), dirs_exist_ok=True)
+
+                code, out = _run_docker(
+                    ["build", "--network=host", "-f", "updater/Dockerfile", "-t", safe_tag, "."],
+                    cwd=tmp_dir,
+                    timeout_sec=1800,
+                )
             if code != 0:
                 tail = "\n".join((out or "").splitlines()[-40:]).strip()
                 # AAVA-179: Detect DNS resolution failures and provide a targeted fix

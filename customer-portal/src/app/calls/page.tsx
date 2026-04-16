@@ -1,8 +1,8 @@
 import React from 'react';
 export const dynamic = 'force-dynamic';
 import { Search, Filter, PhoneIncoming, PhoneOutgoing, MoreVertical, Download, PhoneCall } from 'lucide-react';
-import { tenantQuery } from '@/lib/db';
-import { formatDuration, formatDate, cn } from '@/lib/utils';
+import { tenantQuery } from '../../lib/db';
+import { formatDuration, formatDate, cn } from '../../lib/utils';
 
 async function getCalls(tenantId: string) {
   const res = await tenantQuery(

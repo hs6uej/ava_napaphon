@@ -7,8 +7,8 @@ import {
   TrendingUp,
   Activity
 } from 'lucide-react';
-import { tenantQuery } from '@/lib/db';
-import { formatDuration, formatDate, cn } from '@/lib/utils';
+import { tenantQuery } from '../../lib/db';
+import { formatDuration, formatDate, cn } from '../../lib/utils';
 // import { auth } from '@/lib/auth'; // In production, we would use auth() to get the tenantId
 
 async function getStats(tenantId: string) {

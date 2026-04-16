@@ -1,0 +1,33 @@
+# Ignore database data (causes permission errors during build)
+data/postgres/
+data/*.db
+
+# Ignore large model files
+models/
+
+# Ignore version control
+.git/
+.gitignore
+
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore JS/UI artifacts
+node_modules/
+admin_ui/node_modules/
+customer-portal/node_modules/
+
+# Ignore large media/logs
+asterisk_media/
+logs/
+*.log

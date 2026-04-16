@@ -171,9 +171,8 @@ services:
       - ${DOCKER_GID:-999}
     volumes:
       - ./:/app/project
+      - ./admin_ui/backend/api/system.py:/app/api/system.py
       - ${DOCKER_SOCK:-/var/run/docker.sock}:/var/run/docker.sock
-      # The admin-ui image installs Docker CLI + Compose plugin internally.
-      # Optional fallback (host binaries): use `docker compose -f docker-compose.yml -f docker-compose.admin-ui-host-binaries.yml up -d admin_ui`
       - /etc/os-release:/host/etc/os-release:ro
       - ./asterisk_media:/mnt/asterisk_media
       - ./data:/app/data

@@ -79,6 +79,7 @@ def init_schema(postgres_url: str):
                 caller_audio_format TEXT,
                 codec_alignment_ok INTEGER,
                 barge_in_count INTEGER,
+                is_outbound INTEGER DEFAULT 0,
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
             );
 

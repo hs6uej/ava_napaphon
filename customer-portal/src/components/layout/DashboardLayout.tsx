@@ -11,7 +11,8 @@ import {
   User,
   Activity
 } from 'lucide-react';
-import { cn } from '@/lib/utils';
+import { cn } from '../../lib/utils';
+import { signOut, useSession } from "next-auth/react";
 
 const sidebarItems = [
   { name: 'Overview', href: '/overview', icon: LayoutDashboard },
@@ -22,6 +23,8 @@ const sidebarItems = [
 
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
+  const { data: session } = useSession();
+  const user = session?.user;
 
   return (
     <div className="flex min-h-screen bg-background text-foreground overflow-hidden">
@@ -57,16 +60,27 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
           <div className="p-4 rounded-2xl bg-white/5 border border-white/5 flex items-center gap-3">
             <div className="w-10 h-10 rounded-full bg-gradient-to-br from-brand to-accent-purple p-[2px]">
               <div className="w-full h-full rounded-full bg-background flex items-center justify-center overflow-hidden">
-                <User size={20} />
+                {user?.image ? (
+                   <img src={user.image} alt={user.name || ""} className="w-full h-full object-cover" />
+                ) : (
+                   <User size={20} />
+                )}
               </div>
             </div>
-            <div className="flex flex-col">
-              <span className="text-sm font-semibold truncate max-w-[140px]">Customer Name</span>
-              <span className="text-xs text-foreground/40">Tenant Support</span>
+            <div className="flex flex-col overflow-hidden">
+              <span className="text-sm font-semibold truncate">
+                {user?.name || "Loading..."}
+              </span>
+              <span className="text-xs text-foreground/40 truncate">
+                {user?.email || "Tenant Support"}
+              </span>
             </div>
           </div>
           
-          <button className="w-full sidebar-link text-red-400 hover:bg-red-500/10 hover:text-red-300">
+          <button 
+            onClick={() => signOut({ callbackUrl: '/login' })}
+            className="w-full sidebar-link text-red-400 hover:bg-red-500/10 hover:text-red-300"
+          >
             <LogOut size={20} />
             <span className="font-medium">Logout</span>
           </button>
